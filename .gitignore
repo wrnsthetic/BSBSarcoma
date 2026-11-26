@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+
+# dataset bruto — arquivo muito grande para versionar
+all_samples_sarcoma.csv
+
+# dados processados — regeneráveis rodando o pipeline
+data/processed/
+
+# pasta de PDFs não utilizados
+docs/sarcoma/nao_utilizados/
+
+# artigos de referência (PDFs) — não versionados por direitos autorais
+docs/sarcoma/

@@ -1,0 +1,429 @@
+ID;Methylation Class Name;matched_reference_sample;correlation;mean_abs_error
+VALIDATION_SAMPLE 1;methylation class desmoplastic small round cell tumour;REFERENCE_SAMPLE 855;0.927336;0.079827
+VALIDATION_SAMPLE 2;methylation class inflammatory myofibroblastic tumour;REFERENCE_SAMPLE 228;0.982253;0.043218
+VALIDATION_SAMPLE 3;methylation class small blue round cell tumour with BCOR alteration;REFERENCE_SAMPLE 314;0.901445;0.089673
+VALIDATION_SAMPLE 4;methylation class Ewing's sarcoma;REFERENCE_SAMPLE 382;0.929922;0.079446
+VALIDATION_SAMPLE 5;methylation class chondrosarcoma (IDH group B);REFERENCE_SAMPLE 274;0.925845;0.080245
+VALIDATION_SAMPLE 6;methylation class alveolar soft part sarcoma;REFERENCE_SAMPLE 352;0.972184;0.057208
+VALIDATION_SAMPLE 7;methylation class osteosarcoma (high grade);REFERENCE_SAMPLE 379;0.922143;0.086978
+VALIDATION_SAMPLE 8;methylation class small blue round cell tumour with CIC alteration;REFERENCE_SAMPLE 559;0.937743;0.075644
+VALIDATION_SAMPLE 9;methylation class osteosarcoma (high grade);REFERENCE_SAMPLE 368;0.961453;0.060402
+VALIDATION_SAMPLE 10;methylation class fibrous dysplasia;REFERENCE_SAMPLE 386;0.928349;0.086331
+VALIDATION_SAMPLE 11;methylation class chondrosarcoma (clear cell);REFERENCE_SAMPLE 14;0.932991;0.082578
+VALIDATION_SAMPLE 12;methylation class rhabdomyosarcoma (embryonal);REFERENCE_SAMPLE 305;0.907939;0.093559
+VALIDATION_SAMPLE 13;methylation class malignant peripheral nerve sheath tumour;REFERENCE_SAMPLE 745;0.875570;0.108743
+VALIDATION_SAMPLE 14;methylation class rhabdomyosarcoma (alveolar);REFERENCE_SAMPLE 258;0.929192;0.078069
+VALIDATION_SAMPLE 15;methylation class rhabdomyosarcoma (alveolar);REFERENCE_SAMPLE 742;0.927367;0.081126
+VALIDATION_SAMPLE 16;methylation class rhabdomyosarcoma (embryonal);REFERENCE_SAMPLE 221;0.919126;0.092181
+VALIDATION_SAMPLE 17;methylation class lipoma;REFERENCE_SAMPLE 923;0.978144;0.046318
+VALIDATION_SAMPLE 18;methylation class osteosarcoma (high grade);REFERENCE_SAMPLE 487;0.926803;0.075744
+VALIDATION_SAMPLE 19;methylation class chondrosarcoma (IDH group B);REFERENCE_SAMPLE 265;0.963399;0.067487
+VALIDATION_SAMPLE 20;methylation class osteosarcoma (high grade);REFERENCE_SAMPLE 614;0.889615;0.092291
+VALIDATION_SAMPLE 21;methylation class malignant rhabdoid tumour;REFERENCE_SAMPLE 44;0.946607;0.074079
+VALIDATION_SAMPLE 22;methylation class schwannoma;REFERENCE_SAMPLE 165;0.967842;0.055817
+VALIDATION_SAMPLE 23;methylation class schwannoma;REFERENCE_SAMPLE 165;0.943989;0.070436
+VALIDATION_SAMPLE 24;methylation class chondrosarcoma (IDH group B);REFERENCE_SAMPLE 269;0.967097;0.056915
+VALIDATION_SAMPLE 25;methylation class malignant peripheral nerve sheath tumour;REFERENCE_SAMPLE 786;0.919997;0.087126
+VALIDATION_SAMPLE 26;methylation class rhabdomyosarcoma (embryonal);REFERENCE_SAMPLE 306;0.917545;0.089186
+VALIDATION_SAMPLE 27;methylation class osteosarcoma (high grade);REFERENCE_SAMPLE 368;0.949357;0.069308
+VALIDATION_SAMPLE 28;methylation class rhabdomyosarcoma (alveolar);REFERENCE_SAMPLE 836;0.857292;0.107771
+VALIDATION_SAMPLE 29;methylation class rhabdomyosarcoma (embryonal);REFERENCE_SAMPLE 527;0.917570;0.080423
+VALIDATION_SAMPLE 30;methylation class osteosarcoma (high grade);REFERENCE_SAMPLE 375;0.927235;0.092118
+VALIDATION_SAMPLE 31;methylation class alveolar soft part sarcoma;REFERENCE_SAMPLE 926;0.917338;0.087978
+VALIDATION_SAMPLE 32;methylation class rhabdomyosarcoma (embryonal);REFERENCE_SAMPLE 445;0.925982;0.080693
+VALIDATION_SAMPLE 33;methylation class osteosarcoma (high grade);REFERENCE_SAMPLE 107;0.919307;0.091934
+VALIDATION_SAMPLE 34;methylation class rhabdomyosarcoma (alveolar);REFERENCE_SAMPLE 45;0.945288;0.066400
+VALIDATION_SAMPLE 35;methylation class clear cell sarcoma of soft parts;REFERENCE_SAMPLE 960;0.921350;0.091789
+VALIDATION_SAMPLE 36;methylation class osteosarcoma (high grade);REFERENCE_SAMPLE 368;0.950299;0.070510
+VALIDATION_SAMPLE 37;methylation class epithelioid sarcoma;REFERENCE_SAMPLE 430;0.900847;0.119357
+VALIDATION_SAMPLE 38;methylation class Ewing's sarcoma;REFERENCE_SAMPLE 318;0.917047;0.093239
+VALIDATION_SAMPLE 39;methylation class rhabdomyosarcoma (alveolar);REFERENCE_SAMPLE 836;0.926915;0.082969
+VALIDATION_SAMPLE 40;methylation class rhabdomyosarcoma (alveolar);REFERENCE_SAMPLE 178;0.930253;0.074861
+VALIDATION_SAMPLE 41;methylation class malignant rhabdoid tumour;REFERENCE_SAMPLE 240;0.925378;0.085511
+VALIDATION_SAMPLE 42;methylation class osteosarcoma (high grade);REFERENCE_SAMPLE 486;0.952292;0.067156
+VALIDATION_SAMPLE 43;methylation class osteosarcoma (high grade);REFERENCE_SAMPLE 374;0.919138;0.093248
+VALIDATION_SAMPLE 44;methylation class rhabdomyosarcoma (embryonal);REFERENCE_SAMPLE 304;0.911524;0.087226
+VALIDATION_SAMPLE 45;methylation class alveolar soft part sarcoma;REFERENCE_SAMPLE 926;0.951723;0.066484
+VALIDATION_SAMPLE 46;methylation class Ewing's sarcoma;REFERENCE_SAMPLE 922;0.911429;0.094944
+VALIDATION_SAMPLE 47;methylation class osteosarcoma (high grade);REFERENCE_SAMPLE 368;0.948730;0.074348
+VALIDATION_SAMPLE 48;methylation class rhabdomyosarcoma (alveolar);REFERENCE_SAMPLE 584;0.925211;0.096116
+VALIDATION_SAMPLE 49;methylation class rhabdomyosarcoma (alveolar);REFERENCE_SAMPLE 47;0.898971;0.089810
+VALIDATION_SAMPLE 50;methylation class Ewing's sarcoma;REFERENCE_SAMPLE 922;0.909887;0.092216
+VALIDATION_SAMPLE 51;methylation class synovial sarcoma;REFERENCE_SAMPLE 115;0.913120;0.081044
+VALIDATION_SAMPLE 52;methylation class small blue round cell tumour with BCOR alteration;REFERENCE_SAMPLE 481;0.949826;0.069977
+VALIDATION_SAMPLE 53;methylation class rhabdomyosarcoma (alveolar);REFERENCE_SAMPLE 836;0.945207;0.063608
+VALIDATION_SAMPLE 54;methylation class sclerosing epithelioid fibrosarcoma;REFERENCE_SAMPLE 1006;0.881865;0.106612
+VALIDATION_SAMPLE 55;methylation class desmoplastic small round cell tumour;REFERENCE_SAMPLE 443;0.938121;0.078046
+VALIDATION_SAMPLE 56;methylation class rhabdomyosarcoma (alveolar);REFERENCE_SAMPLE 178;0.936317;0.071851
+VALIDATION_SAMPLE 57;methylation class rhabdomyosarcoma (MYOD1);REFERENCE_SAMPLE 1072;0.950403;0.070239
+VALIDATION_SAMPLE 58;methylation class malignant rhabdoid tumour;REFERENCE_SAMPLE 210;0.965323;0.060075
+VALIDATION_SAMPLE 59;methylation class rhabdomyosarcoma (alveolar);REFERENCE_SAMPLE 45;0.952203;0.066303
+VALIDATION_SAMPLE 60;methylation class osteosarcoma (high grade);REFERENCE_SAMPLE 368;0.947768;0.071515
+VALIDATION_SAMPLE 61;methylation class rhabdomyosarcoma (alveolar);REFERENCE_SAMPLE 243;0.941333;0.071397
+VALIDATION_SAMPLE 62;methylation class Ewing's sarcoma;REFERENCE_SAMPLE 610;0.893975;0.101863
+VALIDATION_SAMPLE 63;methylation class osteosarcoma (high grade);REFERENCE_SAMPLE 370;0.930468;0.077416
+VALIDATION_SAMPLE 64;methylation class angiomatoid fibrous histiocytoma;REFERENCE_SAMPLE 362;0.973830;0.054040
+VALIDATION_SAMPLE 65;methylation class rhabdomyosarcoma (MYOD1);REFERENCE_SAMPLE 1072;0.829353;0.122568
+VALIDATION_SAMPLE 66;methylation class Ewing's sarcoma;REFERENCE_SAMPLE 320;0.905892;0.097568
+VALIDATION_SAMPLE 67;methylation class alveolar soft part sarcoma;REFERENCE_SAMPLE 353;0.955795;0.065981
+VALIDATION_SAMPLE 68;methylation class rhabdomyosarcoma (alveolar);REFERENCE_SAMPLE 584;0.935563;0.086155
+VALIDATION_SAMPLE 69;methylation class osteosarcoma (high grade);REFERENCE_SAMPLE 487;0.926235;0.086959
+VALIDATION_SAMPLE 70;methylation class rhabdomyosarcoma (alveolar);REFERENCE_SAMPLE 747;0.935111;0.072985
+VALIDATION_SAMPLE 71;methylation class rhabdomyosarcoma (MYOD1);REFERENCE_SAMPLE 918;0.938156;0.069910
+VALIDATION_SAMPLE 72;methylation class Ewing's sarcoma;REFERENCE_SAMPLE 922;0.913942;0.090562
+VALIDATION_SAMPLE 73;methylation class angiomatoid fibrous histiocytoma;REFERENCE_SAMPLE 362;0.937118;0.083412
+VALIDATION_SAMPLE 74;methylation class alveolar soft part sarcoma;REFERENCE_SAMPLE 926;0.943509;0.078646
+VALIDATION_SAMPLE 75;methylation class fibrous dysplasia;REFERENCE_SAMPLE 436;0.973279;0.054423
+VALIDATION_SAMPLE 76;methylation class chordoma;REFERENCE_SAMPLE 63;0.979535;0.046720
+VALIDATION_SAMPLE 77;methylation class synovial sarcoma;REFERENCE_SAMPLE 777;0.972474;0.052967
+VALIDATION_SAMPLE 78;methylation class rhabdomyosarcoma (embryonal);REFERENCE_SAMPLE 306;0.911665;0.088223
+VALIDATION_SAMPLE 79;methylation class malignant rhabdoid tumour;REFERENCE_SAMPLE 44;0.940934;0.077769
+VALIDATION_SAMPLE 80;methylation class Ewing's sarcoma;REFERENCE_SAMPLE 922;0.933958;0.078753
+VALIDATION_SAMPLE 81;methylation class rhabdomyosarcoma (alveolar);REFERENCE_SAMPLE 724;0.875154;0.111795
+VALIDATION_SAMPLE 82;methylation class schwannoma;REFERENCE_SAMPLE 165;0.934316;0.079366
+VALIDATION_SAMPLE 83;methylation class rhabdomyosarcoma (alveolar);REFERENCE_SAMPLE 836;0.937193;0.072203
+VALIDATION_SAMPLE 84;methylation class osteosarcoma (high grade);REFERENCE_SAMPLE 854;0.846240;0.132143
+VALIDATION_SAMPLE 85;methylation class osteosarcoma (high grade);REFERENCE_SAMPLE 108;0.870344;0.109232
+VALIDATION_SAMPLE 86;methylation class rhabdomyosarcoma (embryonal);REFERENCE_SAMPLE 380;0.907256;0.085887
+VALIDATION_SAMPLE 87;methylation class giant cell tumour of bone;REFERENCE_SAMPLE 531;0.969343;0.057092
+VALIDATION_SAMPLE 88;methylation class rhabdomyosarcoma (alveolar);REFERENCE_SAMPLE 724;0.920598;0.082611
+VALIDATION_SAMPLE 89;methylation class Ewing's sarcoma;REFERENCE_SAMPLE 922;0.920582;0.084694
+VALIDATION_SAMPLE 90;methylation class malignant rhabdoid tumour;REFERENCE_SAMPLE 11;0.858479;0.121470
+VALIDATION_SAMPLE 91;methylation class chondrosarcoma (IDH group B);REFERENCE_SAMPLE 265;0.959531;0.069516
+VALIDATION_SAMPLE 92;methylation class rhabdomyosarcoma (alveolar);REFERENCE_SAMPLE 42;0.951306;0.072519
+VALIDATION_SAMPLE 93;methylation class rhabdomyosarcoma (embryonal);REFERENCE_SAMPLE 306;0.953521;0.062944
+VALIDATION_SAMPLE 94;methylation class rhabdomyosarcoma (embryonal);REFERENCE_SAMPLE 883;0.917168;0.082374
+VALIDATION_SAMPLE 95;methylation class malignant rhabdoid tumour;REFERENCE_SAMPLE 480;0.882033;0.106030
+VALIDATION_SAMPLE 96;methylation class rhabdomyosarcoma (alveolar);REFERENCE_SAMPLE 229;0.940849;0.071272
+VALIDATION_SAMPLE 97;methylation class chondrosarcoma (IDH group B);REFERENCE_SAMPLE 265;0.957165;0.069280
+VALIDATION_SAMPLE 98;methylation class synovial sarcoma;REFERENCE_SAMPLE 893;0.940627;0.070783
+VALIDATION_SAMPLE 99;methylation class osteosarcoma (high grade);REFERENCE_SAMPLE 625;0.916179;0.091448
+VALIDATION_SAMPLE 100;methylation class osteosarcoma (high grade);REFERENCE_SAMPLE 854;0.938858;0.071485
+VALIDATION_SAMPLE 101;methylation class Ewing's sarcoma;REFERENCE_SAMPLE 922;0.951798;0.068576
+VALIDATION_SAMPLE 102;methylation class Ewing's sarcoma;REFERENCE_SAMPLE 922;0.875141;0.111079
+VALIDATION_SAMPLE 103;methylation class chondrosarcoma (IDH group B);REFERENCE_SAMPLE 265;0.967187;0.059532
+VALIDATION_SAMPLE 104;methylation class rhabdomyosarcoma (embryonal);REFERENCE_SAMPLE 221;0.872239;0.125338
+VALIDATION_SAMPLE 105;methylation class synovial sarcoma;REFERENCE_SAMPLE 777;0.933925;0.081350
+VALIDATION_SAMPLE 106;methylation class clear cell sarcoma of the kidney;REFERENCE_SAMPLE 254;0.969822;0.047513
+VALIDATION_SAMPLE 107;methylation class Ewing's sarcoma;REFERENCE_SAMPLE 922;0.913816;0.091202
+VALIDATION_SAMPLE 108;methylation class Ewing's sarcoma;REFERENCE_SAMPLE 464;0.941212;0.076132
+VALIDATION_SAMPLE 109;methylation class Ewing's sarcoma;REFERENCE_SAMPLE 382;0.893918;0.098834
+VALIDATION_SAMPLE 110;methylation class osteosarcoma (high grade);REFERENCE_SAMPLE 684;0.947851;0.073205
+VALIDATION_SAMPLE 111;methylation class rhabdomyosarcoma (alveolar);REFERENCE_SAMPLE 724;0.909992;0.088894
+VALIDATION_SAMPLE 112;methylation class leiomyosarcoma;REFERENCE_SAMPLE 186;0.904927;0.085196
+VALIDATION_SAMPLE 113;methylation class angiomatoid fibrous histiocytoma;REFERENCE_SAMPLE 362;0.964634;0.063619
+VALIDATION_SAMPLE 114;methylation class Ewing's sarcoma;REFERENCE_SAMPLE 464;0.938724;0.078364
+VALIDATION_SAMPLE 115;methylation class malignant peripheral nerve sheath tumour;REFERENCE_SAMPLE 787;0.925298;0.087000
+VALIDATION_SAMPLE 116;methylation class Ewing's sarcoma;REFERENCE_SAMPLE 922;0.941138;0.079959
+VALIDATION_SAMPLE 117;methylation class Ewing's sarcoma;REFERENCE_SAMPLE 922;0.945579;0.072461
+VALIDATION_SAMPLE 118;methylation class Ewing's sarcoma;REFERENCE_SAMPLE 922;0.908321;0.092134
+VALIDATION_SAMPLE 119;methylation class leiomyosarcoma;REFERENCE_SAMPLE 119;0.913710;0.093207
+VALIDATION_SAMPLE 120;methylation class angiomatoid fibrous histiocytoma;REFERENCE_SAMPLE 362;0.974420;0.056236
+VALIDATION_SAMPLE 121;methylation class Ewing's sarcoma;REFERENCE_SAMPLE 9;0.930034;0.072229
+VALIDATION_SAMPLE 122;methylation class Ewing's sarcoma;REFERENCE_SAMPLE 922;0.920533;0.085407
+VALIDATION_SAMPLE 123;methylation class Ewing's sarcoma;REFERENCE_SAMPLE 788;0.912446;0.095046
+VALIDATION_SAMPLE 124;methylation class malignant peripheral nerve sheath tumour;REFERENCE_SAMPLE 785;0.920192;0.088167
+VALIDATION_SAMPLE 125;methylation class Ewing's sarcoma;REFERENCE_SAMPLE 788;0.915867;0.086336
+VALIDATION_SAMPLE 126;methylation class Ewing's sarcoma;REFERENCE_SAMPLE 320;0.892790;0.101856
+VALIDATION_SAMPLE 127;methylation class chondrosarcoma (IDH group B);REFERENCE_SAMPLE 287;0.946479;0.072598
+VALIDATION_SAMPLE 128;methylation class osteosarcoma (high grade);REFERENCE_SAMPLE 107;0.946372;0.068131
+VALIDATION_SAMPLE 129;methylation class osteosarcoma (high grade);REFERENCE_SAMPLE 487;0.919230;0.079547
+VALIDATION_SAMPLE 130;methylation class Ewing's sarcoma;REFERENCE_SAMPLE 922;0.918739;0.086814
+VALIDATION_SAMPLE 131;methylation class rhabdomyosarcoma (alveolar);REFERENCE_SAMPLE 836;0.928652;0.076393
+VALIDATION_SAMPLE 132;methylation class chondrosarcoma (clear cell);REFERENCE_SAMPLE 13;0.937682;0.080168
+VALIDATION_SAMPLE 133;methylation class rhabdomyosarcoma (embryonal);REFERENCE_SAMPLE 306;0.928268;0.078020
+VALIDATION_SAMPLE 134;methylation class osteosarcoma (high grade);REFERENCE_SAMPLE 368;0.905361;0.097852
+VALIDATION_SAMPLE 135;methylation class desmoplastic small round cell tumour;REFERENCE_SAMPLE 425;0.939804;0.076051
+VALIDATION_SAMPLE 136;methylation class osteosarcoma (high grade);REFERENCE_SAMPLE 614;0.872397;0.106878
+VALIDATION_SAMPLE 137;methylation class rhabdomyosarcoma (alveolar);REFERENCE_SAMPLE 836;0.954715;0.060084
+VALIDATION_SAMPLE 138;methylation class desmoplastic small round cell tumour;REFERENCE_SAMPLE 855;0.931116;0.079504
+VALIDATION_SAMPLE 139;methylation class osteosarcoma (high grade);REFERENCE_SAMPLE 368;0.951580;0.069355
+VALIDATION_SAMPLE 140;methylation class rhabdomyosarcoma (alveolar);REFERENCE_SAMPLE 303;0.943376;0.073435
+VALIDATION_SAMPLE 141;methylation class chondrosarcoma (IDH group B);REFERENCE_SAMPLE 287;0.909679;0.099826
+VALIDATION_SAMPLE 142;methylation class Ewing's sarcoma;REFERENCE_SAMPLE 788;0.903073;0.093307
+VALIDATION_SAMPLE 143;methylation class rhabdomyosarcoma (embryonal);REFERENCE_SAMPLE 306;0.925477;0.083622
+VALIDATION_SAMPLE 144;methylation class desmoplastic small round cell tumour;REFERENCE_SAMPLE 41;0.923390;0.077540
+VALIDATION_SAMPLE 145;methylation class sarcoma (RMS-like);REFERENCE_SAMPLE 321;0.938895;0.066362
+VALIDATION_SAMPLE 146;methylation class rhabdomyosarcoma (alveolar);REFERENCE_SAMPLE 243;0.938321;0.074613
+VALIDATION_SAMPLE 147;methylation class chondrosarcoma (IDH group B);REFERENCE_SAMPLE 265;0.962083;0.070780
+VALIDATION_SAMPLE 148;methylation class Ewing's sarcoma;REFERENCE_SAMPLE 295;0.909824;0.091497
+VALIDATION_SAMPLE 149;methylation class Ewing's sarcoma;REFERENCE_SAMPLE 295;0.909098;0.085359
+VALIDATION_SAMPLE 150;methylation class alveolar soft part sarcoma;REFERENCE_SAMPLE 926;0.955430;0.064840
+VALIDATION_SAMPLE 151;methylation class Ewing's sarcoma;REFERENCE_SAMPLE 382;0.906643;0.096522
+VALIDATION_SAMPLE 152;methylation class osteosarcoma (high grade);REFERENCE_SAMPLE 368;0.949391;0.071294
+VALIDATION_SAMPLE 153;methylation class rhabdomyosarcoma (alveolar);REFERENCE_SAMPLE 245;0.921617;0.090133
+VALIDATION_SAMPLE 154;methylation class inflammatory myofibroblastic tumour;REFERENCE_SAMPLE 228;0.978104;0.048327
+VALIDATION_SAMPLE 155;methylation class neurofibroma (plexiform);REFERENCE_SAMPLE 773;0.907321;0.102577
+VALIDATION_SAMPLE 156;methylation class chondrosarcoma (IDH group B);REFERENCE_SAMPLE 265;0.959078;0.072323
+VALIDATION_SAMPLE 157;methylation class synovial sarcoma;REFERENCE_SAMPLE 115;0.925501;0.075259
+VALIDATION_SAMPLE 158;methylation class leiomyosarcoma;REFERENCE_SAMPLE 261;0.918276;0.082819
+VALIDATION_SAMPLE 159;methylation class myxoid liposarcoma;REFERENCE_SAMPLE 313;0.933414;0.083024
+VALIDATION_SAMPLE 160;methylation class lipoma;REFERENCE_SAMPLE 923;0.935209;0.085039
+VALIDATION_SAMPLE 161;methylation class gastrointestinal stromal tumour;REFERENCE_SAMPLE 473;0.938329;0.085541
+VALIDATION_SAMPLE 162;methylation class control (reactive tissue);REFERENCE_SAMPLE 457;0.955593;0.068581
+VALIDATION_SAMPLE 163;methylation class leiomyosarcoma;REFERENCE_SAMPLE 119;0.901860;0.092498
+VALIDATION_SAMPLE 164;methylation class leiomyosarcoma;REFERENCE_SAMPLE 119;0.905752;0.087645
+VALIDATION_SAMPLE 165;methylation class synovial sarcoma;REFERENCE_SAMPLE 692;0.925842;0.083184
+VALIDATION_SAMPLE 166;methylation class myositis ossificans;REFERENCE_SAMPLE 206;0.926521;0.081888
+VALIDATION_SAMPLE 167;methylation class control (blood);REFERENCE_SAMPLE 1059;0.980927;0.043986
+VALIDATION_SAMPLE 168;methylation class gastrointestinal stromal tumour;REFERENCE_SAMPLE 129;0.929951;0.085284
+VALIDATION_SAMPLE 169;methylation class epithelioid sarcoma;REFERENCE_SAMPLE 401;0.951719;0.071442
+VALIDATION_SAMPLE 170;methylation class gastrointestinal stromal tumour;REFERENCE_SAMPLE 129;0.870732;0.119581
+VALIDATION_SAMPLE 171;methylation class osteosarcoma (high grade);REFERENCE_SAMPLE 378;0.906364;0.097918
+VALIDATION_SAMPLE 172;methylation class chordoma;REFERENCE_SAMPLE 63;0.973925;0.051560
+VALIDATION_SAMPLE 173;methylation class osteosarcoma (high grade);REFERENCE_SAMPLE 368;0.918561;0.091642
+VALIDATION_SAMPLE 174;methylation class control (reactive tissue);REFERENCE_SAMPLE 461;0.930040;0.088052
+VALIDATION_SAMPLE 175;methylation class rhabdomyosarcoma (MYOD1);REFERENCE_SAMPLE 1070;0.893390;0.099205
+VALIDATION_SAMPLE 176;methylation class control (reactive tissue);REFERENCE_SAMPLE 461;0.879656;0.115008
+VALIDATION_SAMPLE 177;methylation class synovial sarcoma;REFERENCE_SAMPLE 893;0.929917;0.079521
+VALIDATION_SAMPLE 178;methylation class epithelioid sarcoma;REFERENCE_SAMPLE 235;0.961070;0.058265
+VALIDATION_SAMPLE 179;methylation class epithelioid sarcoma;REFERENCE_SAMPLE 401;0.939794;0.080830
+VALIDATION_SAMPLE 180;methylation class synovial sarcoma;REFERENCE_SAMPLE 714;0.956474;0.061606
+VALIDATION_SAMPLE 181;methylation class osteosarcoma (high grade);REFERENCE_SAMPLE 486;0.936908;0.073990
+VALIDATION_SAMPLE 182;methylation class Ewing's sarcoma;REFERENCE_SAMPLE 922;0.940524;0.074085
+VALIDATION_SAMPLE 183;methylation class chondrosarcoma (IDH group B);REFERENCE_SAMPLE 269;0.942348;0.073642
+VALIDATION_SAMPLE 184;methylation class chondrosarcoma (IDH group A);REFERENCE_SAMPLE 864;0.779228;0.134843
+VALIDATION_SAMPLE 185;methylation class well- / dedifferentiated liposarcoma;REFERENCE_SAMPLE 1046;0.967441;0.061473
+VALIDATION_SAMPLE 186;methylation class synovial sarcoma;REFERENCE_SAMPLE 692;0.892181;0.112457
+VALIDATION_SAMPLE 187;methylation class synovial sarcoma;REFERENCE_SAMPLE 893;0.911350;0.088152
+VALIDATION_SAMPLE 188;methylation class undifferentiated sarcoma;REFERENCE_SAMPLE 1031;0.911432;0.091036
+VALIDATION_SAMPLE 189;methylation class dermatofibrosarcoma protuberans;REFERENCE_SAMPLE 872;0.920826;0.087376
+VALIDATION_SAMPLE 190;methylation class control (reactive tissue);REFERENCE_SAMPLE 461;0.891244;0.107829
+VALIDATION_SAMPLE 191;methylation class epithelioid sarcoma;REFERENCE_SAMPLE 238;0.901449;0.103134
+VALIDATION_SAMPLE 192;methylation class undifferentiated sarcoma;REFERENCE_SAMPLE 1011;0.914378;0.086158
+VALIDATION_SAMPLE 193;methylation class epithelioid sarcoma;REFERENCE_SAMPLE 401;0.897967;0.107237
+VALIDATION_SAMPLE 194;methylation class malignant peripheral nerve sheath tumour;REFERENCE_SAMPLE 785;0.882727;0.110478
+VALIDATION_SAMPLE 195;methylation class myositis proliferans;REFERENCE_SAMPLE 388;0.888537;0.107519
+VALIDATION_SAMPLE 196;methylation class osteosarcoma (high grade);REFERENCE_SAMPLE 614;0.894559;0.093908
+VALIDATION_SAMPLE 197;methylation class small blue round cell tumour with CIC alteration;REFERENCE_SAMPLE 897;0.931795;0.078887
+VALIDATION_SAMPLE 198;methylation class undifferentiated sarcoma;REFERENCE_SAMPLE 1040;0.851441;0.120389
+VALIDATION_SAMPLE 199;methylation class desmoplastic small round cell tumour;REFERENCE_SAMPLE 855;0.915672;0.087566
+VALIDATION_SAMPLE 200;methylation class leiomyosarcoma;REFERENCE_SAMPLE 119;0.919762;0.088072
+VALIDATION_SAMPLE 201;methylation class endometrial stromal sarcoma (low grade);REFERENCE_SAMPLE 103;0.887096;0.111845
+VALIDATION_SAMPLE 202;methylation class myxoid liposarcoma;REFERENCE_SAMPLE 704;0.964182;0.053483
+VALIDATION_SAMPLE 203;methylation class lipoma;REFERENCE_SAMPLE 923;0.939124;0.086051
+VALIDATION_SAMPLE 204;methylation class inflammatory myofibroblastic tumour;REFERENCE_SAMPLE 226;0.963211;0.059303
+VALIDATION_SAMPLE 205;methylation class dermatofibrosarcoma protuberans;REFERENCE_SAMPLE 872;0.911783;0.090157
+VALIDATION_SAMPLE 206;methylation class leiomyosarcoma;REFERENCE_SAMPLE 117;0.889872;0.102369
+VALIDATION_SAMPLE 207;methylation class chondrosarcoma (mesenchymal);REFERENCE_SAMPLE 440;0.924794;0.079023
+VALIDATION_SAMPLE 208;methylation class leiomyosarcoma;REFERENCE_SAMPLE 117;0.893390;0.098158
+VALIDATION_SAMPLE 209;methylation class chordoma;REFERENCE_SAMPLE 55;0.922159;0.103806
+VALIDATION_SAMPLE 210;methylation class myxoid liposarcoma;REFERENCE_SAMPLE 645;0.975870;0.046424
+VALIDATION_SAMPLE 211;methylation class chondrosarcoma (IDH group B);REFERENCE_SAMPLE 271;0.928741;0.083495
+VALIDATION_SAMPLE 212;methylation class gastrointestinal stromal tumour;REFERENCE_SAMPLE 129;0.947869;0.068368
+VALIDATION_SAMPLE 213;methylation class alveolar soft part sarcoma;REFERENCE_SAMPLE 926;0.969018;0.055349
+VALIDATION_SAMPLE 214;methylation class rhabdomyosarcoma (embryonal);REFERENCE_SAMPLE 221;0.937488;0.073719
+VALIDATION_SAMPLE 215;methylation class alveolar soft part sarcoma;REFERENCE_SAMPLE 926;0.960629;0.062981
+VALIDATION_SAMPLE 216;methylation class Ewing's sarcoma;REFERENCE_SAMPLE 922;0.861142;0.111864
+VALIDATION_SAMPLE 217;methylation class epithelioid haemangioendothelioma;REFERENCE_SAMPLE 222;0.928069;0.091296
+VALIDATION_SAMPLE 218;methylation class epithelioid sarcoma;REFERENCE_SAMPLE 401;0.954268;0.069251
+VALIDATION_SAMPLE 219;methylation class osteosarcoma (high grade);REFERENCE_SAMPLE 486;0.938715;0.077231
+VALIDATION_SAMPLE 220;methylation class epithelioid sarcoma;REFERENCE_SAMPLE 401;0.919679;0.100814
+VALIDATION_SAMPLE 221;methylation class control (reactive tissue);REFERENCE_SAMPLE 461;0.916232;0.093662
+VALIDATION_SAMPLE 222;methylation class osteosarcoma (high grade);REFERENCE_SAMPLE 486;0.949462;0.072210
+VALIDATION_SAMPLE 223;methylation class osteosarcoma (high grade);REFERENCE_SAMPLE 486;0.873956;0.110323
+VALIDATION_SAMPLE 224;methylation class angiomatoid fibrous histiocytoma;REFERENCE_SAMPLE 362;0.960534;0.059964
+VALIDATION_SAMPLE 225;methylation class osteosarcoma (high grade);REFERENCE_SAMPLE 486;0.893429;0.100276
+VALIDATION_SAMPLE 226;methylation class undifferentiated sarcoma;REFERENCE_SAMPLE 1035;0.895646;0.099490
+VALIDATION_SAMPLE 227;methylation class epithelioid sarcoma;REFERENCE_SAMPLE 401;0.876827;0.114610
+VALIDATION_SAMPLE 228;methylation class control (reactive tissue);REFERENCE_SAMPLE 461;0.927047;0.090018
+VALIDATION_SAMPLE 229;methylation class nodular fasciitis;REFERENCE_SAMPLE 337;0.913598;0.094747
+VALIDATION_SAMPLE 230;methylation class chondrosarcoma (IDH group B);REFERENCE_SAMPLE 269;0.889436;0.102021
+VALIDATION_SAMPLE 231;methylation class epithelioid sarcoma;REFERENCE_SAMPLE 401;0.967907;0.058210
+VALIDATION_SAMPLE 232;methylation class alveolar soft part sarcoma;REFERENCE_SAMPLE 926;0.917053;0.090623
+VALIDATION_SAMPLE 233;methylation class osteosarcoma (high grade);REFERENCE_SAMPLE 486;0.925794;0.085365
+VALIDATION_SAMPLE 234;methylation class osteosarcoma (high grade);REFERENCE_SAMPLE 486;0.893471;0.097744
+VALIDATION_SAMPLE 235;methylation class control (reactive tissue);REFERENCE_SAMPLE 461;0.892090;0.103323
+VALIDATION_SAMPLE 236;methylation class epithelioid sarcoma;REFERENCE_SAMPLE 401;0.874088;0.111130
+VALIDATION_SAMPLE 237;methylation class osteosarcoma (high grade);REFERENCE_SAMPLE 486;0.908571;0.097020
+VALIDATION_SAMPLE 238;methylation class desmoplastic small round cell tumour;REFERENCE_SAMPLE 855;0.890606;0.110376
+VALIDATION_SAMPLE 239;methylation class desmoplastic small round cell tumour;REFERENCE_SAMPLE 425;0.940354;0.074872
+VALIDATION_SAMPLE 240;methylation class desmoplastic small round cell tumour;REFERENCE_SAMPLE 192;0.934682;0.076776
+VALIDATION_SAMPLE 241;methylation class desmoplastic small round cell tumour;REFERENCE_SAMPLE 41;0.930026;0.079306
+VALIDATION_SAMPLE 242;methylation class desmoplastic small round cell tumour;REFERENCE_SAMPLE 187;0.942696;0.074555
+VALIDATION_SAMPLE 243;methylation class desmoplastic small round cell tumour;REFERENCE_SAMPLE 427;0.929769;0.082833
+VALIDATION_SAMPLE 244;methylation class desmoplastic small round cell tumour;REFERENCE_SAMPLE 187;0.934239;0.078807
+VALIDATION_SAMPLE 245;methylation class desmoplastic small round cell tumour;REFERENCE_SAMPLE 427;0.935455;0.079646
+VALIDATION_SAMPLE 246;methylation class desmoplastic small round cell tumour;REFERENCE_SAMPLE 302;0.924434;0.076980
+VALIDATION_SAMPLE 247;methylation class desmoplastic small round cell tumour;REFERENCE_SAMPLE 187;0.931578;0.082450
+VALIDATION_SAMPLE 248;methylation class myositis ossificans;REFERENCE_SAMPLE 206;0.875304;0.114948
+VALIDATION_SAMPLE 249;methylation class solitary fibrous tumour;REFERENCE_SAMPLE 721;0.846753;0.118428
+VALIDATION_SAMPLE 250;methylation class angiomatoid fibrous histiocytoma;REFERENCE_SAMPLE 362;0.961424;0.062585
+VALIDATION_SAMPLE 251;methylation class epithelioid sarcoma;REFERENCE_SAMPLE 401;0.940306;0.080698
+VALIDATION_SAMPLE 252;methylation class epithelioid sarcoma;REFERENCE_SAMPLE 401;0.953244;0.072275
+VALIDATION_SAMPLE 253;methylation class inflammatory myofibroblastic tumour;REFERENCE_SAMPLE 227;0.962599;0.066718
+VALIDATION_SAMPLE 254;methylation class epithelioid sarcoma;REFERENCE_SAMPLE 401;0.955344;0.068441
+VALIDATION_SAMPLE 255;methylation class angiomatoid fibrous histiocytoma;REFERENCE_SAMPLE 362;0.964063;0.064184
+VALIDATION_SAMPLE 256;methylation class sarcoma (MPNST-like);REFERENCE_SAMPLE 739;0.865066;0.104649
+VALIDATION_SAMPLE 257;methylation class malignant peripheral nerve sheath tumour;REFERENCE_SAMPLE 795;0.949951;0.067526
+VALIDATION_SAMPLE 258;methylation class undifferentiated sarcoma;REFERENCE_SAMPLE 455;0.873497;0.121196
+VALIDATION_SAMPLE 259;methylation class osteosarcoma (high grade);REFERENCE_SAMPLE 486;0.936036;0.082999
+VALIDATION_SAMPLE 260;methylation class well- / dedifferentiated liposarcoma;REFERENCE_SAMPLE 1017;0.879667;0.119026
+VALIDATION_SAMPLE 261;methylation class osteosarcoma (high grade);REFERENCE_SAMPLE 486;0.880050;0.114065
+VALIDATION_SAMPLE 262;methylation class control (muscle tissue);REFERENCE_SAMPLE 1;0.970120;0.054733
+VALIDATION_SAMPLE 263;methylation class myositis proliferans;REFERENCE_SAMPLE 388;0.919889;0.095890
+VALIDATION_SAMPLE 264;methylation class well- / dedifferentiated liposarcoma;REFERENCE_SAMPLE 1046;0.960511;0.065521
+VALIDATION_SAMPLE 265;methylation class Langerhans cell histiocytosis;REFERENCE_SAMPLE 887;0.982487;0.044070
+VALIDATION_SAMPLE 266;methylation class well- / dedifferentiated liposarcoma;REFERENCE_SAMPLE 1046;0.970573;0.057296
+VALIDATION_SAMPLE 267;methylation class lipoma;REFERENCE_SAMPLE 923;0.977991;0.053078
+VALIDATION_SAMPLE 268;methylation class myxoid liposarcoma;REFERENCE_SAMPLE 701;0.951052;0.061349
+VALIDATION_SAMPLE 269;methylation class myxoid liposarcoma;REFERENCE_SAMPLE 909;0.967281;0.054187
+VALIDATION_SAMPLE 270;methylation class myxoid liposarcoma;REFERENCE_SAMPLE 909;0.971334;0.050501
+VALIDATION_SAMPLE 271;methylation class myxoid liposarcoma;REFERENCE_SAMPLE 909;0.964915;0.054434
+VALIDATION_SAMPLE 272;methylation class myxoid liposarcoma;REFERENCE_SAMPLE 909;0.892156;0.100361
+VALIDATION_SAMPLE 273;methylation class undifferentiated sarcoma;REFERENCE_SAMPLE 1035;0.900209;0.101251
+VALIDATION_SAMPLE 274;methylation class osteosarcoma (high grade);REFERENCE_SAMPLE 368;0.862810;0.111989
+VALIDATION_SAMPLE 275;methylation class well- / dedifferentiated liposarcoma;REFERENCE_SAMPLE 1055;0.945708;0.078093
+VALIDATION_SAMPLE 276;methylation class well- / dedifferentiated liposarcoma;REFERENCE_SAMPLE 1024;0.950045;0.072797
+VALIDATION_SAMPLE 277;methylation class angiomatoid fibrous histiocytoma;REFERENCE_SAMPLE 362;0.969171;0.054922
+VALIDATION_SAMPLE 278;methylation class undifferentiated sarcoma;REFERENCE_SAMPLE 455;0.921744;0.090634
+VALIDATION_SAMPLE 279;methylation class myositis proliferans;REFERENCE_SAMPLE 388;0.913208;0.087799
+VALIDATION_SAMPLE 280;methylation class well- / dedifferentiated liposarcoma;REFERENCE_SAMPLE 1020;0.910067;0.095986
+VALIDATION_SAMPLE 281;methylation class well- / dedifferentiated liposarcoma;REFERENCE_SAMPLE 1046;0.929500;0.081788
+VALIDATION_SAMPLE 282;methylation class well- / dedifferentiated liposarcoma;REFERENCE_SAMPLE 1046;0.960685;0.064097
+VALIDATION_SAMPLE 283;methylation class angiomatoid fibrous histiocytoma;REFERENCE_SAMPLE 362;0.958471;0.065357
+VALIDATION_SAMPLE 284;methylation class myositis proliferans;REFERENCE_SAMPLE 388;0.942911;0.083032
+VALIDATION_SAMPLE 285;methylation class well- / dedifferentiated liposarcoma;REFERENCE_SAMPLE 1047;0.943112;0.075268
+VALIDATION_SAMPLE 286;methylation class well- / dedifferentiated liposarcoma;REFERENCE_SAMPLE 1020;0.897000;0.114397
+VALIDATION_SAMPLE 287;methylation class angiomatoid fibrous histiocytoma;REFERENCE_SAMPLE 362;0.964800;0.060391
+VALIDATION_SAMPLE 288;methylation class myositis proliferans;REFERENCE_SAMPLE 388;0.961113;0.071117
+VALIDATION_SAMPLE 289;methylation class myositis proliferans;REFERENCE_SAMPLE 388;0.962590;0.062514
+VALIDATION_SAMPLE 290;methylation class myxoid liposarcoma;REFERENCE_SAMPLE 909;0.961649;0.059210
+VALIDATION_SAMPLE 291;methylation class chondrosarcoma (IDH group B);REFERENCE_SAMPLE 271;0.940999;0.075589
+VALIDATION_SAMPLE 292;methylation class leiomyosarcoma;REFERENCE_SAMPLE 119;0.917558;0.085015
+VALIDATION_SAMPLE 293;methylation class leiomyosarcoma;REFERENCE_SAMPLE 117;0.877081;0.106943
+VALIDATION_SAMPLE 294;methylation class leiomyosarcoma;REFERENCE_SAMPLE 117;0.858446;0.111582
+VALIDATION_SAMPLE 295;methylation class leiomyosarcoma;REFERENCE_SAMPLE 118;0.875004;0.106832
+VALIDATION_SAMPLE 296;methylation class leiomyosarcoma;REFERENCE_SAMPLE 120;0.900166;0.100180
+VALIDATION_SAMPLE 297;methylation class osteosarcoma (high grade);REFERENCE_SAMPLE 368;0.850340;0.125207
+VALIDATION_SAMPLE 298;methylation class angiomatoid fibrous histiocytoma;REFERENCE_SAMPLE 362;0.967943;0.057678
+VALIDATION_SAMPLE 299;methylation class endometrial stromal sarcoma (low grade);REFERENCE_SAMPLE 103;0.903764;0.100151
+VALIDATION_SAMPLE 300;methylation class leiomyosarcoma;REFERENCE_SAMPLE 931;0.902505;0.094633
+VALIDATION_SAMPLE 301;methylation class angiomatoid fibrous histiocytoma;REFERENCE_SAMPLE 362;0.952088;0.069787
+VALIDATION_SAMPLE 302;methylation class leiomyosarcoma;REFERENCE_SAMPLE 118;0.948687;0.069658
+VALIDATION_SAMPLE 303;methylation class leiomyosarcoma;REFERENCE_SAMPLE 119;0.928544;0.080769
+VALIDATION_SAMPLE 304;methylation class epithelioid sarcoma;REFERENCE_SAMPLE 401;0.882458;0.112374
+VALIDATION_SAMPLE 305;methylation class control (reactive tissue);REFERENCE_SAMPLE 461;0.873309;0.120373
+VALIDATION_SAMPLE 306;methylation class alveolar soft part sarcoma;REFERENCE_SAMPLE 926;0.919622;0.086440
+VALIDATION_SAMPLE 307;methylation class leiomyosarcoma;REFERENCE_SAMPLE 118;0.940711;0.073882
+VALIDATION_SAMPLE 308;methylation class leiomyosarcoma;REFERENCE_SAMPLE 186;0.895254;0.090462
+VALIDATION_SAMPLE 309;methylation class leiomyosarcoma;REFERENCE_SAMPLE 117;0.884129;0.101889
+VALIDATION_SAMPLE 310;methylation class leiomyosarcoma;REFERENCE_SAMPLE 119;0.934632;0.072474
+VALIDATION_SAMPLE 311;methylation class leiomyosarcoma;REFERENCE_SAMPLE 931;0.916742;0.088641
+VALIDATION_SAMPLE 312;methylation class osteosarcoma (high grade);REFERENCE_SAMPLE 368;0.922294;0.084987
+VALIDATION_SAMPLE 313;methylation class leiomyosarcoma;REFERENCE_SAMPLE 931;0.903883;0.093848
+VALIDATION_SAMPLE 314;methylation class leiomyosarcoma;REFERENCE_SAMPLE 118;0.893478;0.098537
+VALIDATION_SAMPLE 315;methylation class control (reactive tissue);REFERENCE_SAMPLE 461;0.881180;0.112163
+VALIDATION_SAMPLE 316;methylation class undifferentiated sarcoma;REFERENCE_SAMPLE 455;0.926524;0.084446
+VALIDATION_SAMPLE 317;methylation class sarcoma (MPNST-like);REFERENCE_SAMPLE 739;0.897281;0.094916
+VALIDATION_SAMPLE 318;methylation class leiomyosarcoma;REFERENCE_SAMPLE 117;0.895418;0.097791
+VALIDATION_SAMPLE 319;methylation class chondrosarcoma (IDH group B);REFERENCE_SAMPLE 271;0.912574;0.092754
+VALIDATION_SAMPLE 320;methylation class leiomyosarcoma;REFERENCE_SAMPLE 119;0.896875;0.094027
+VALIDATION_SAMPLE 321;methylation class leiomyosarcoma;REFERENCE_SAMPLE 120;0.921051;0.086219
+VALIDATION_SAMPLE 322;methylation class leiomyosarcoma;REFERENCE_SAMPLE 120;0.877766;0.111916
+VALIDATION_SAMPLE 323;methylation class leiomyosarcoma;REFERENCE_SAMPLE 931;0.897075;0.102177
+VALIDATION_SAMPLE 324;methylation class leiomyosarcoma;REFERENCE_SAMPLE 117;0.877350;0.111191
+VALIDATION_SAMPLE 325;methylation class osteosarcoma (high grade);REFERENCE_SAMPLE 486;0.883580;0.105503
+VALIDATION_SAMPLE 326;methylation class osteosarcoma (high grade);REFERENCE_SAMPLE 378;0.903217;0.094321
+VALIDATION_SAMPLE 327;methylation class leiomyosarcoma;REFERENCE_SAMPLE 117;0.851826;0.130721
+VALIDATION_SAMPLE 328;methylation class leiomyosarcoma;REFERENCE_SAMPLE 118;0.943573;0.071735
+VALIDATION_SAMPLE 329;methylation class leiomyoma;REFERENCE_SAMPLE 943;0.911424;0.093374
+VALIDATION_SAMPLE 330;methylation class endometrial stromal sarcoma (low grade);REFERENCE_SAMPLE 103;0.905383;0.101542
+VALIDATION_SAMPLE 331;methylation class leiomyosarcoma;REFERENCE_SAMPLE 118;0.933287;0.075413
+VALIDATION_SAMPLE 332;methylation class leiomyosarcoma;REFERENCE_SAMPLE 119;0.909642;0.087126
+VALIDATION_SAMPLE 333;methylation class endometrial stromal sarcoma (low grade);REFERENCE_SAMPLE 103;0.950901;0.076834
+VALIDATION_SAMPLE 334;methylation class leiomyosarcoma;REFERENCE_SAMPLE 118;0.932354;0.074212
+VALIDATION_SAMPLE 335;methylation class leiomyosarcoma;REFERENCE_SAMPLE 120;0.896948;0.097571
+VALIDATION_SAMPLE 336;methylation class osteosarcoma (high grade);REFERENCE_SAMPLE 378;0.890839;0.101370
+VALIDATION_SAMPLE 337;methylation class leiomyosarcoma;REFERENCE_SAMPLE 118;0.938385;0.073465
+VALIDATION_SAMPLE 338;methylation class leiomyosarcoma;REFERENCE_SAMPLE 118;0.925920;0.081330
+VALIDATION_SAMPLE 339;methylation class leiomyosarcoma;REFERENCE_SAMPLE 117;0.885309;0.104375
+VALIDATION_SAMPLE 340;methylation class osteosarcoma (high grade);REFERENCE_SAMPLE 378;0.859656;0.115092
+VALIDATION_SAMPLE 341;methylation class leiomyosarcoma;REFERENCE_SAMPLE 680;0.878320;0.110140
+VALIDATION_SAMPLE 342;methylation class chondrosarcoma (IDH group B);REFERENCE_SAMPLE 271;0.948540;0.069575
+VALIDATION_SAMPLE 343;methylation class leiomyosarcoma;REFERENCE_SAMPLE 120;0.892468;0.099541
+VALIDATION_SAMPLE 344;methylation class leiomyosarcoma;REFERENCE_SAMPLE 118;0.914951;0.086189
+VALIDATION_SAMPLE 345;methylation class rhabdomyosarcoma (MYOD1);REFERENCE_SAMPLE 921;0.872639;0.103128
+VALIDATION_SAMPLE 346;methylation class epithelioid sarcoma;REFERENCE_SAMPLE 237;0.825705;0.131989
+VALIDATION_SAMPLE 347;methylation class rhabdomyosarcoma (alveolar);REFERENCE_SAMPLE 42;0.946759;0.079580
+VALIDATION_SAMPLE 348;methylation class rhabdomyosarcoma (embryonal);REFERENCE_SAMPLE 380;0.878351;0.098486
+VALIDATION_SAMPLE 349;methylation class malignant peripheral nerve sheath tumour;REFERENCE_SAMPLE 795;0.945352;0.072282
+VALIDATION_SAMPLE 350;methylation class alveolar soft part sarcoma;REFERENCE_SAMPLE 439;0.900850;0.099166
+VALIDATION_SAMPLE 351;methylation class rhabdomyosarcoma (alveolar);REFERENCE_SAMPLE 724;0.928719;0.078427
+VALIDATION_SAMPLE 352;methylation class rhabdomyosarcoma (alveolar);REFERENCE_SAMPLE 836;0.933302;0.081546
+VALIDATION_SAMPLE 353;methylation class rhabdomyosarcoma (alveolar);REFERENCE_SAMPLE 836;0.944665;0.068144
+VALIDATION_SAMPLE 354;methylation class endometrial stromal sarcoma (high grade);REFERENCE_SAMPLE 1013;0.901353;0.103035
+VALIDATION_SAMPLE 355;methylation class endometrial stromal sarcoma (low grade);REFERENCE_SAMPLE 927;0.927774;0.081488
+VALIDATION_SAMPLE 356;methylation class chondrosarcoma (IDH group B);REFERENCE_SAMPLE 271;0.936612;0.077313
+VALIDATION_SAMPLE 357;methylation class synovial sarcoma;REFERENCE_SAMPLE 709;0.940216;0.073116
+VALIDATION_SAMPLE 358;methylation class synovial sarcoma;REFERENCE_SAMPLE 115;0.935192;0.069425
+VALIDATION_SAMPLE 359;methylation class epithelioid sarcoma;REFERENCE_SAMPLE 401;0.949423;0.073169
+VALIDATION_SAMPLE 360;methylation class synovial sarcoma;REFERENCE_SAMPLE 893;0.944673;0.071599
+VALIDATION_SAMPLE 361;methylation class synovial sarcoma;REFERENCE_SAMPLE 893;0.923365;0.084077
+VALIDATION_SAMPLE 362;methylation class synovial sarcoma;REFERENCE_SAMPLE 643;0.935205;0.076847
+VALIDATION_SAMPLE 363;methylation class synovial sarcoma;REFERENCE_SAMPLE 298;0.938234;0.072917
+VALIDATION_SAMPLE 364;methylation class synovial sarcoma;REFERENCE_SAMPLE 893;0.935470;0.077869
+VALIDATION_SAMPLE 365;methylation class synovial sarcoma;REFERENCE_SAMPLE 115;0.927533;0.069520
+VALIDATION_SAMPLE 366;methylation class synovial sarcoma;REFERENCE_SAMPLE 692;0.870862;0.106201
+VALIDATION_SAMPLE 367;methylation class synovial sarcoma;REFERENCE_SAMPLE 893;0.942077;0.071232
+VALIDATION_SAMPLE 368;methylation class chondrosarcoma (IDH group B);REFERENCE_SAMPLE 271;0.915286;0.088239
+VALIDATION_SAMPLE 369;methylation class clear cell sarcoma of soft parts;REFERENCE_SAMPLE 960;0.877606;0.113965
+VALIDATION_SAMPLE 370;methylation class neurofibroma (plexiform);REFERENCE_SAMPLE 782;0.935418;0.081411
+VALIDATION_SAMPLE 371;methylation class clear cell sarcoma of soft parts;REFERENCE_SAMPLE 960;0.920277;0.091897
+VALIDATION_SAMPLE 372;methylation class epithelioid haemangioendothelioma;REFERENCE_SAMPLE 234;0.930165;0.080752
+VALIDATION_SAMPLE 373;methylation class inflammatory myofibroblastic tumour;REFERENCE_SAMPLE 227;0.959607;0.067568
+VALIDATION_SAMPLE 374;methylation class angiosarcoma;REFERENCE_SAMPLE 920;0.964794;0.066675
+VALIDATION_SAMPLE 375;methylation class angiosarcoma;REFERENCE_SAMPLE 920;0.952683;0.076267
+VALIDATION_SAMPLE 376;methylation class angiosarcoma;REFERENCE_SAMPLE 40;0.924464;0.088012
+VALIDATION_SAMPLE 377;methylation class angiosarcoma;REFERENCE_SAMPLE 845;0.907373;0.092494
+VALIDATION_SAMPLE 378;methylation class chondrosarcoma (IDH group B);REFERENCE_SAMPLE 265;0.981886;0.046876
+VALIDATION_SAMPLE 379;methylation class osteosarcoma (high grade);REFERENCE_SAMPLE 108;0.872870;0.104846
+VALIDATION_SAMPLE 380;methylation class osteosarcoma (high grade);REFERENCE_SAMPLE 486;0.945737;0.070382
+VALIDATION_SAMPLE 381;methylation class osteosarcoma (high grade);REFERENCE_SAMPLE 486;0.932070;0.076578
+VALIDATION_SAMPLE 382;methylation class osteosarcoma (high grade);REFERENCE_SAMPLE 368;0.924185;0.088223
+VALIDATION_SAMPLE 383;methylation class osteosarcoma (high grade);REFERENCE_SAMPLE 378;0.885650;0.110788
+VALIDATION_SAMPLE 384;methylation class angiomatoid fibrous histiocytoma;REFERENCE_SAMPLE 362;0.979664;0.047562
+VALIDATION_SAMPLE 385;methylation class osteosarcoma (high grade);REFERENCE_SAMPLE 368;0.931236;0.085789
+VALIDATION_SAMPLE 386;methylation class osteosarcoma (high grade);REFERENCE_SAMPLE 869;0.870087;0.103060
+VALIDATION_SAMPLE 387;methylation class osteosarcoma (high grade);REFERENCE_SAMPLE 486;0.956399;0.067520
+VALIDATION_SAMPLE 388;methylation class osteosarcoma (high grade);REFERENCE_SAMPLE 486;0.937972;0.078802
+VALIDATION_SAMPLE 389;methylation class osteosarcoma (high grade);REFERENCE_SAMPLE 625;0.938256;0.076015
+VALIDATION_SAMPLE 390;methylation class chondrosarcoma (group B);REFERENCE_SAMPLE 280;0.838229;0.123535
+VALIDATION_SAMPLE 391;methylation class osteosarcoma (high grade);REFERENCE_SAMPLE 107;0.944539;0.068370
+VALIDATION_SAMPLE 392;methylation class chondroblastoma;REFERENCE_SAMPLE 24;0.922084;0.096305
+VALIDATION_SAMPLE 393;methylation class chondrosarcoma (IDH group B);REFERENCE_SAMPLE 265;0.982732;0.049552
+VALIDATION_SAMPLE 394;methylation class osteosarcoma (high grade);REFERENCE_SAMPLE 108;0.908831;0.080955
+VALIDATION_SAMPLE 395;methylation class angiomatoid fibrous histiocytoma;REFERENCE_SAMPLE 362;0.981827;0.045093
+VALIDATION_SAMPLE 396;methylation class control (reactive tissue);REFERENCE_SAMPLE 458;0.944746;0.075407
+VALIDATION_SAMPLE 397;methylation class control (reactive tissue);REFERENCE_SAMPLE 461;0.936820;0.080385
+VALIDATION_SAMPLE 398;methylation class chondrosarcoma (IDH group B);REFERENCE_SAMPLE 271;0.935112;0.080121
+VALIDATION_SAMPLE 399;methylation class osteosarcoma (high grade);REFERENCE_SAMPLE 368;0.928893;0.083002
+VALIDATION_SAMPLE 400;methylation class myositis proliferans;REFERENCE_SAMPLE 388;0.982335;0.049312
+VALIDATION_SAMPLE 401;methylation class chondrosarcoma (IDH group B);REFERENCE_SAMPLE 271;0.952782;0.067365
+VALIDATION_SAMPLE 402;methylation class chondrosarcoma (group A);REFERENCE_SAMPLE 735;0.910870;0.094395
+VALIDATION_SAMPLE 403;methylation class chondrosarcoma (IDH group A);REFERENCE_SAMPLE 85;0.939762;0.075819
+VALIDATION_SAMPLE 404;methylation class malignant peripheral nerve sheath tumour;REFERENCE_SAMPLE 809;0.911031;0.091480
+VALIDATION_SAMPLE 405;methylation class chondrosarcoma (IDH group B);REFERENCE_SAMPLE 265;0.969163;0.059678
+VALIDATION_SAMPLE 406;methylation class chondrosarcoma (mesenchymal);REFERENCE_SAMPLE 440;0.908573;0.085577
+VALIDATION_SAMPLE 407;methylation class Ewing's sarcoma;REFERENCE_SAMPLE 922;0.920410;0.085738
+VALIDATION_SAMPLE 408;methylation class Ewing's sarcoma;REFERENCE_SAMPLE 922;0.897700;0.102713
+VALIDATION_SAMPLE 409;methylation class sclerosing epithelioid fibrosarcoma;REFERENCE_SAMPLE 1005;0.940057;0.081464
+VALIDATION_SAMPLE 410;methylation class Ewing's sarcoma;REFERENCE_SAMPLE 788;0.890866;0.100108
+VALIDATION_SAMPLE 411;methylation class Ewing's sarcoma;REFERENCE_SAMPLE 464;0.933902;0.077849
+VALIDATION_SAMPLE 412;methylation class Ewing's sarcoma;REFERENCE_SAMPLE 788;0.917624;0.088806
+VALIDATION_SAMPLE 413;methylation class Ewing's sarcoma;REFERENCE_SAMPLE 382;0.931308;0.090350
+VALIDATION_SAMPLE 414;methylation class Ewing's sarcoma;REFERENCE_SAMPLE 922;0.901844;0.093221
+VALIDATION_SAMPLE 415;methylation class Ewing's sarcoma;REFERENCE_SAMPLE 922;0.890209;0.099903
+VALIDATION_SAMPLE 416;methylation class Ewing's sarcoma;REFERENCE_SAMPLE 922;0.934522;0.085036
+VALIDATION_SAMPLE 417;methylation class small blue round cell tumour with CIC alteration;REFERENCE_SAMPLE 293;0.948572;0.072221
+VALIDATION_SAMPLE 418;methylation class chordoma;REFERENCE_SAMPLE 65;0.969401;0.056950
+VALIDATION_SAMPLE 419;methylation class osteosarcoma (high grade);REFERENCE_SAMPLE 486;0.930425;0.084522
+VALIDATION_SAMPLE 420;methylation class chordoma;REFERENCE_SAMPLE 56;0.967414;0.057560
+VALIDATION_SAMPLE 421;methylation class chordoma;REFERENCE_SAMPLE 51;0.968759;0.059367
+VALIDATION_SAMPLE 422;methylation class chordoma;REFERENCE_SAMPLE 55;0.885122;0.111623
+VALIDATION_SAMPLE 423;methylation class angiomatoid fibrous histiocytoma;REFERENCE_SAMPLE 362;0.974959;0.054274
+VALIDATION_SAMPLE 424;methylation class alveolar soft part sarcoma;REFERENCE_SAMPLE 926;0.972663;0.051176
+VALIDATION_SAMPLE 425;methylation class alveolar soft part sarcoma;REFERENCE_SAMPLE 353;0.952322;0.068770
+VALIDATION_SAMPLE 426;methylation class alveolar soft part sarcoma;REFERENCE_SAMPLE 926;0.967773;0.055437
+VALIDATION_SAMPLE 427;methylation class alveolar soft part sarcoma;REFERENCE_SAMPLE 926;0.968255;0.055155
+VALIDATION_SAMPLE 428;methylation class alveolar soft part sarcoma;REFERENCE_SAMPLE 926;0.967885;0.056718

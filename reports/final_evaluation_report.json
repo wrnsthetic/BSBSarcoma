@@ -1,0 +1,474 @@
+{
+  "generated_at": "2026-07-26T00:01:59",
+  "result": {
+    "n_cpgs": 50,
+    "test_samples": 216,
+    "n_classes": 65,
+    "macro_f1": 0.921208,
+    "accuracy": 0.949074
+  },
+  "baseline_comparison": {
+    "baseline_macro_f1": 0.81751,
+    "baseline_accuracy": 0.888889,
+    "f1_delta": 0.103698,
+    "acc_delta": 0.060185
+  },
+  "per_class_report": {
+    "methylation class Ewing's sarcoma": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 8.0
+    },
+    "methylation class Kaposi sarcoma": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 2.0
+    },
+    "methylation class Langerhans cell histiocytosis": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 2.0
+    },
+    "methylation class alveolar soft part sarcoma": {
+      "precision": 0.75,
+      "recall": 1.0,
+      "f1-score": 0.8571428571428571,
+      "support": 3.0
+    },
+    "methylation class angioleiomyoma / myopericytoma": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 3.0
+    },
+    "methylation class angiomatoid fibrous histiocytoma": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 2.0
+    },
+    "methylation class angiosarcoma": {
+      "precision": 0.875,
+      "recall": 1.0,
+      "f1-score": 0.9333333333333333,
+      "support": 7.0
+    },
+    "methylation class atypical fibroxanthoma / pleomorphic dermal sarcoma": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 3.0
+    },
+    "methylation class chondroblastoma": {
+      "precision": 0.6666666666666666,
+      "recall": 1.0,
+      "f1-score": 0.8,
+      "support": 2.0
+    },
+    "methylation class chondrosarcoma (IDH group A)": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 6.0
+    },
+    "methylation class chondrosarcoma (IDH group B)": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 3.0
+    },
+    "methylation class chondrosarcoma (clear cell)": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 1.0
+    },
+    "methylation class chondrosarcoma (group A)": {
+      "precision": 1.0,
+      "recall": 0.5,
+      "f1-score": 0.6666666666666666,
+      "support": 2.0
+    },
+    "methylation class chondrosarcoma (group B)": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 2.0
+    },
+    "methylation class chondrosarcoma (mesenchymal)": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 2.0
+    },
+    "methylation class chordoma": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 12.0
+    },
+    "methylation class chordoma (dedifferentiated)": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 2.0
+    },
+    "methylation class clear cell sarcoma of soft parts": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 1.0
+    },
+    "methylation class clear cell sarcoma of the kidney": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 2.0
+    },
+    "methylation class control (blood)": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 2.0
+    },
+    "methylation class control (muscle tissue)": {
+      "precision": 1.0,
+      "recall": 0.5,
+      "f1-score": 0.6666666666666666,
+      "support": 2.0
+    },
+    "methylation class control (reactive tissue)": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 2.0
+    },
+    "methylation class dermatofibrosarcoma protuberans": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 8.0
+    },
+    "methylation class desmoid-type fibromatosis": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 3.0
+    },
+    "methylation class desmoplastic small round cell tumour": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 5.0
+    },
+    "methylation class endometrial stromal sarcoma (high grade)": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 2.0
+    },
+    "methylation class endometrial stromal sarcoma (low grade)": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 3.0
+    },
+    "methylation class epithelioid haemangioendothelioma": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 2.0
+    },
+    "methylation class epithelioid sarcoma": {
+      "precision": 0.8,
+      "recall": 1.0,
+      "f1-score": 0.8888888888888888,
+      "support": 4.0
+    },
+    "methylation class extraskeletal myxoid chondrosarcoma": {
+      "precision": 0.6666666666666666,
+      "recall": 1.0,
+      "f1-score": 0.8,
+      "support": 2.0
+    },
+    "methylation class fibrous dysplasia": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 2.0
+    },
+    "methylation class gastrointestinal stromal tumour": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 10.0
+    },
+    "methylation class giant cell tumour of bone": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 2.0
+    },
+    "methylation class infantile fibrosarcoma": {
+      "precision": 1.0,
+      "recall": 0.6666666666666666,
+      "f1-score": 0.8,
+      "support": 3.0
+    },
+    "methylation class inflammatory myofibroblastic tumour": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 1.0
+    },
+    "methylation class leiomyoma": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 1.0
+    },
+    "methylation class leiomyosarcoma": {
+      "precision": 1.0,
+      "recall": 0.75,
+      "f1-score": 0.8571428571428571,
+      "support": 4.0
+    },
+    "methylation class lipoma": {
+      "precision": 0.6666666666666666,
+      "recall": 1.0,
+      "f1-score": 0.8,
+      "support": 2.0
+    },
+    "methylation class low-grade fibromyxoid sarcoma": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 2.0
+    },
+    "methylation class malignant peripheral nerve sheath tumour": {
+      "precision": 0.8333333333333334,
+      "recall": 1.0,
+      "f1-score": 0.9090909090909091,
+      "support": 5.0
+    },
+    "methylation class malignant rhabdoid tumour": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 3.0
+    },
+    "methylation class melanoma (cutaneous)": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 2.0
+    },
+    "methylation class myositis ossificans": {
+      "precision": 1.0,
+      "recall": 0.5,
+      "f1-score": 0.6666666666666666,
+      "support": 2.0
+    },
+    "methylation class myositis proliferans": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 1.0
+    },
+    "methylation class myxoid liposarcoma": {
+      "precision": 1.0,
+      "recall": 0.8333333333333334,
+      "f1-score": 0.9090909090909091,
+      "support": 6.0
+    },
+    "methylation class neurofibroma": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 2.0
+    },
+    "methylation class neurofibroma (plexiform)": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 1.0
+    },
+    "methylation class nodular fasciitis": {
+      "precision": 0.6666666666666666,
+      "recall": 1.0,
+      "f1-score": 0.8,
+      "support": 2.0
+    },
+    "methylation class ossifying fibromyxoid tumour": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 3.0
+    },
+    "methylation class osteoblastoma": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 1.0
+    },
+    "methylation class osteosarcoma (high grade)": {
+      "precision": 0.75,
+      "recall": 1.0,
+      "f1-score": 0.8571428571428571,
+      "support": 9.0
+    },
+    "methylation class rhabdomyosarcoma (MYOD1)": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 1.0
+    },
+    "methylation class rhabdomyosarcoma (alveolar)": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 7.0
+    },
+    "methylation class rhabdomyosarcoma (embryonal)": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 6.0
+    },
+    "methylation class sarcoma (MPNST-like)": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 1.0
+    },
+    "methylation class sarcoma (RMS-like)": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 3.0
+    },
+    "methylation class schwannoma": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 5.0
+    },
+    "methylation class sclerosing epithelioid fibrosarcoma": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 1.0
+    },
+    "methylation class small blue round cell tumour with BCOR alteration": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 2.0
+    },
+    "methylation class small blue round cell tumour with CIC alteration": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 2.0
+    },
+    "methylation class solitary fibrous tumour": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 5.0
+    },
+    "methylation class squamous cell carcinoma (cutaneous)": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 2.0
+    },
+    "methylation class synovial sarcoma": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 8.0
+    },
+    "methylation class undifferentiated sarcoma": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 5.0
+    },
+    "methylation class well- / dedifferentiated liposarcoma": {
+      "precision": 1.0,
+      "recall": 0.5,
+      "f1-score": 0.6666666666666666,
+      "support": 4.0
+    },
+    "accuracy": 0.9490740740740741,
+    "macro avg": {
+      "precision": 0.9334615384615385,
+      "recall": 0.926923076923077,
+      "f1-score": 0.9212076812076812,
+      "support": 216.0
+    },
+    "weighted avg": {
+      "precision": 0.948263888888889,
+      "recall": 0.9490740740740741,
+      "f1-score": 0.9410640799529688,
+      "support": 216.0
+    }
+  },
+  "best_cpgs": [
+    "cg22846334",
+    "cg01053463",
+    "cg21807034",
+    "cg17754510",
+    "cg12749132",
+    "cg14175690",
+    "cg21472506",
+    "cg03184290",
+    "cg25718467",
+    "cg07912251",
+    "cg06249604",
+    "cg04470054",
+    "cg01697719",
+    "cg05401764",
+    "cg05825244",
+    "cg24816460",
+    "cg04635642",
+    "cg25431399",
+    "cg12014181",
+    "cg12515402",
+    "cg11795854",
+    "cg20232662",
+    "cg25916282",
+    "cg06888746",
+    "cg09799983",
+    "cg21026830",
+    "cg17698295",
+    "cg20386316",
+    "cg01916088",
+    "cg23229261",
+    "cg05942459",
+    "cg14841828",
+    "cg00295794",
+    "cg25622366",
+    "cg20722088",
+    "cg16848712",
+    "cg24210280",
+    "cg04184019",
+    "cg19063061",
+    "cg03571393",
+    "cg20156240",
+    "cg08668199",
+    "cg20743134",
+    "cg00283857",
+    "cg15416279",
+    "cg07996594",
+    "cg26233084",
+    "cg01696784",
+    "cg00698204",
+    "cg21792155"
+  ],
+  "total_elapsed": "1s"
+}

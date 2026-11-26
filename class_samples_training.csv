@@ -1,0 +1,1079 @@
+﻿ID;Methylation Class Name
+REFERENCE_SAMPLE 1;methylation class control (muscle tissue)
+REFERENCE_SAMPLE 2;methylation class control (muscle tissue)
+REFERENCE_SAMPLE 3;methylation class control (muscle tissue)
+REFERENCE_SAMPLE 4;methylation class control (muscle tissue)
+REFERENCE_SAMPLE 5;methylation class control (muscle tissue)
+REFERENCE_SAMPLE 6;methylation class control (muscle tissue)
+REFERENCE_SAMPLE 7;methylation class control (muscle tissue)
+REFERENCE_SAMPLE 8;methylation class control (muscle tissue)
+REFERENCE_SAMPLE 9;methylation class Ewing's sarcoma
+REFERENCE_SAMPLE 10;methylation class desmoid-type fibromatosis
+REFERENCE_SAMPLE 11;methylation class malignant rhabdoid tumour
+REFERENCE_SAMPLE 12;methylation class chondrosarcoma (clear cell)
+REFERENCE_SAMPLE 13;methylation class chondrosarcoma (clear cell)
+REFERENCE_SAMPLE 14;methylation class chondrosarcoma (clear cell)
+REFERENCE_SAMPLE 15;methylation class chondrosarcoma (clear cell)
+REFERENCE_SAMPLE 16;methylation class chondrosarcoma (clear cell)
+REFERENCE_SAMPLE 17;methylation class chondrosarcoma (clear cell)
+REFERENCE_SAMPLE 18;methylation class chondrosarcoma (mesenchymal)
+REFERENCE_SAMPLE 19;methylation class chondrosarcoma (mesenchymal)
+REFERENCE_SAMPLE 20;methylation class chondrosarcoma (mesenchymal)
+REFERENCE_SAMPLE 21;methylation class chondrosarcoma (mesenchymal)
+REFERENCE_SAMPLE 22;methylation class chondroblastoma
+REFERENCE_SAMPLE 23;methylation class chondroblastoma
+REFERENCE_SAMPLE 24;methylation class chondroblastoma
+REFERENCE_SAMPLE 25;methylation class chondroblastoma
+REFERENCE_SAMPLE 26;methylation class chondroblastoma
+REFERENCE_SAMPLE 27;methylation class chondroblastoma
+REFERENCE_SAMPLE 28;methylation class chondroblastoma
+REFERENCE_SAMPLE 29;methylation class chondroblastoma
+REFERENCE_SAMPLE 30;methylation class chondroblastoma
+REFERENCE_SAMPLE 31;methylation class chondroblastoma
+REFERENCE_SAMPLE 32;methylation class Ewing's sarcoma
+REFERENCE_SAMPLE 33;methylation class angiosarcoma
+REFERENCE_SAMPLE 34;methylation class angiosarcoma
+REFERENCE_SAMPLE 35;methylation class angiosarcoma
+REFERENCE_SAMPLE 36;methylation class angiosarcoma
+REFERENCE_SAMPLE 37;methylation class small blue round cell tumour with CIC alteration
+REFERENCE_SAMPLE 38;methylation class rhabdomyosarcoma (alveolar)
+REFERENCE_SAMPLE 39;methylation class infantile fibrosarcoma
+REFERENCE_SAMPLE 40;methylation class angiosarcoma
+REFERENCE_SAMPLE 41;methylation class desmoplastic small round cell tumour
+REFERENCE_SAMPLE 42;methylation class rhabdomyosarcoma (alveolar)
+REFERENCE_SAMPLE 43;methylation class sarcoma (RMS-like)
+REFERENCE_SAMPLE 44;methylation class malignant rhabdoid tumour
+REFERENCE_SAMPLE 45;methylation class rhabdomyosarcoma (alveolar)
+REFERENCE_SAMPLE 46;methylation class schwannoma
+REFERENCE_SAMPLE 47;methylation class rhabdomyosarcoma (alveolar)
+REFERENCE_SAMPLE 48;methylation class desmoplastic small round cell tumour
+REFERENCE_SAMPLE 49;methylation class sarcoma (RMS-like)
+REFERENCE_SAMPLE 50;methylation class Ewing's sarcoma
+REFERENCE_SAMPLE 51;methylation class chordoma
+REFERENCE_SAMPLE 52;methylation class chordoma
+REFERENCE_SAMPLE 53;methylation class chordoma
+REFERENCE_SAMPLE 54;methylation class chondrosarcoma (IDH group A)
+REFERENCE_SAMPLE 55;methylation class chordoma
+REFERENCE_SAMPLE 56;methylation class chordoma
+REFERENCE_SAMPLE 57;methylation class chordoma
+REFERENCE_SAMPLE 58;methylation class chordoma
+REFERENCE_SAMPLE 59;methylation class chordoma
+REFERENCE_SAMPLE 60;methylation class chordoma
+REFERENCE_SAMPLE 61;methylation class chordoma
+REFERENCE_SAMPLE 62;methylation class chordoma
+REFERENCE_SAMPLE 63;methylation class chordoma
+REFERENCE_SAMPLE 64;methylation class chordoma
+REFERENCE_SAMPLE 65;methylation class chordoma
+REFERENCE_SAMPLE 66;methylation class chordoma
+REFERENCE_SAMPLE 67;methylation class chordoma
+REFERENCE_SAMPLE 68;methylation class chordoma
+REFERENCE_SAMPLE 69;methylation class chordoma
+REFERENCE_SAMPLE 70;methylation class chordoma
+REFERENCE_SAMPLE 71;methylation class chordoma
+REFERENCE_SAMPLE 72;methylation class chondrosarcoma (IDH group A)
+REFERENCE_SAMPLE 73;methylation class chordoma
+REFERENCE_SAMPLE 74;methylation class chordoma
+REFERENCE_SAMPLE 75;methylation class chordoma
+REFERENCE_SAMPLE 76;methylation class chondrosarcoma (IDH group A)
+REFERENCE_SAMPLE 77;methylation class chondrosarcoma (IDH group A)
+REFERENCE_SAMPLE 78;methylation class chondrosarcoma (IDH group A)
+REFERENCE_SAMPLE 79;methylation class chondrosarcoma (IDH group A)
+REFERENCE_SAMPLE 80;methylation class chondrosarcoma (IDH group A)
+REFERENCE_SAMPLE 81;methylation class chondrosarcoma (IDH group A)
+REFERENCE_SAMPLE 82;methylation class chondrosarcoma (clear cell)
+REFERENCE_SAMPLE 83;methylation class chondrosarcoma (IDH group B)
+REFERENCE_SAMPLE 84;methylation class chondrosarcoma (IDH group A)
+REFERENCE_SAMPLE 85;methylation class chondrosarcoma (IDH group A)
+REFERENCE_SAMPLE 86;methylation class chondrosarcoma (IDH group A)
+REFERENCE_SAMPLE 87;methylation class chondrosarcoma (IDH group A)
+REFERENCE_SAMPLE 88;methylation class chondrosarcoma (IDH group A)
+REFERENCE_SAMPLE 89;methylation class chordoma
+REFERENCE_SAMPLE 90;methylation class rhabdomyosarcoma (embryonal)
+REFERENCE_SAMPLE 91;methylation class squamous cell carcinoma (cutaneous)
+REFERENCE_SAMPLE 92;methylation class squamous cell carcinoma (cutaneous)
+REFERENCE_SAMPLE 93;methylation class squamous cell carcinoma (cutaneous)
+REFERENCE_SAMPLE 94;methylation class squamous cell carcinoma (cutaneous)
+REFERENCE_SAMPLE 95;methylation class squamous cell carcinoma (cutaneous)
+REFERENCE_SAMPLE 96;methylation class squamous cell carcinoma (cutaneous)
+REFERENCE_SAMPLE 97;methylation class squamous cell carcinoma (cutaneous)
+REFERENCE_SAMPLE 98;methylation class squamous cell carcinoma (cutaneous)
+REFERENCE_SAMPLE 99;methylation class endometrial stromal sarcoma (low grade)
+REFERENCE_SAMPLE 100;methylation class endometrial stromal sarcoma (low grade)
+REFERENCE_SAMPLE 101;methylation class endometrial stromal sarcoma (low grade)
+REFERENCE_SAMPLE 102;methylation class endometrial stromal sarcoma (low grade)
+REFERENCE_SAMPLE 103;methylation class endometrial stromal sarcoma (low grade)
+REFERENCE_SAMPLE 104;methylation class endometrial stromal sarcoma (low grade)
+REFERENCE_SAMPLE 105;methylation class endometrial stromal sarcoma (low grade)
+REFERENCE_SAMPLE 106;methylation class rhabdomyosarcoma (alveolar)
+REFERENCE_SAMPLE 107;methylation class osteosarcoma (high grade)
+REFERENCE_SAMPLE 108;methylation class osteosarcoma (high grade)
+REFERENCE_SAMPLE 109;methylation class osteoblastoma
+REFERENCE_SAMPLE 110;methylation class osteoblastoma
+REFERENCE_SAMPLE 111;methylation class osteoblastoma
+REFERENCE_SAMPLE 112;methylation class osteoblastoma
+REFERENCE_SAMPLE 113;methylation class osteoblastoma
+REFERENCE_SAMPLE 114;methylation class osteoblastoma
+REFERENCE_SAMPLE 115;methylation class synovial sarcoma
+REFERENCE_SAMPLE 116;methylation class leiomyosarcoma
+REFERENCE_SAMPLE 117;methylation class leiomyosarcoma
+REFERENCE_SAMPLE 118;methylation class leiomyosarcoma
+REFERENCE_SAMPLE 119;methylation class leiomyosarcoma
+REFERENCE_SAMPLE 120;methylation class leiomyosarcoma
+REFERENCE_SAMPLE 121;methylation class gastrointestinal stromal tumour
+REFERENCE_SAMPLE 122;methylation class gastrointestinal stromal tumour
+REFERENCE_SAMPLE 123;methylation class gastrointestinal stromal tumour
+REFERENCE_SAMPLE 124;methylation class gastrointestinal stromal tumour
+REFERENCE_SAMPLE 125;methylation class gastrointestinal stromal tumour
+REFERENCE_SAMPLE 126;methylation class gastrointestinal stromal tumour
+REFERENCE_SAMPLE 127;methylation class gastrointestinal stromal tumour
+REFERENCE_SAMPLE 128;methylation class gastrointestinal stromal tumour
+REFERENCE_SAMPLE 129;methylation class gastrointestinal stromal tumour
+REFERENCE_SAMPLE 130;methylation class gastrointestinal stromal tumour
+REFERENCE_SAMPLE 131;methylation class gastrointestinal stromal tumour
+REFERENCE_SAMPLE 132;methylation class gastrointestinal stromal tumour
+REFERENCE_SAMPLE 133;methylation class gastrointestinal stromal tumour
+REFERENCE_SAMPLE 134;methylation class gastrointestinal stromal tumour
+REFERENCE_SAMPLE 135;methylation class gastrointestinal stromal tumour
+REFERENCE_SAMPLE 136;methylation class gastrointestinal stromal tumour
+REFERENCE_SAMPLE 137;methylation class gastrointestinal stromal tumour
+REFERENCE_SAMPLE 138;methylation class gastrointestinal stromal tumour
+REFERENCE_SAMPLE 139;methylation class gastrointestinal stromal tumour
+REFERENCE_SAMPLE 140;methylation class gastrointestinal stromal tumour
+REFERENCE_SAMPLE 141;methylation class gastrointestinal stromal tumour
+REFERENCE_SAMPLE 142;methylation class gastrointestinal stromal tumour
+REFERENCE_SAMPLE 143;methylation class gastrointestinal stromal tumour
+REFERENCE_SAMPLE 144;methylation class gastrointestinal stromal tumour
+REFERENCE_SAMPLE 145;methylation class gastrointestinal stromal tumour
+REFERENCE_SAMPLE 146;methylation class gastrointestinal stromal tumour
+REFERENCE_SAMPLE 147;methylation class gastrointestinal stromal tumour
+REFERENCE_SAMPLE 148;methylation class gastrointestinal stromal tumour
+REFERENCE_SAMPLE 149;methylation class gastrointestinal stromal tumour
+REFERENCE_SAMPLE 150;methylation class gastrointestinal stromal tumour
+REFERENCE_SAMPLE 151;methylation class chondrosarcoma (IDH group A)
+REFERENCE_SAMPLE 152;methylation class solitary fibrous tumour
+REFERENCE_SAMPLE 153;methylation class solitary fibrous tumour
+REFERENCE_SAMPLE 154;methylation class solitary fibrous tumour
+REFERENCE_SAMPLE 155;methylation class solitary fibrous tumour
+REFERENCE_SAMPLE 156;methylation class solitary fibrous tumour
+REFERENCE_SAMPLE 157;methylation class solitary fibrous tumour
+REFERENCE_SAMPLE 158;methylation class solitary fibrous tumour
+REFERENCE_SAMPLE 159;methylation class solitary fibrous tumour
+REFERENCE_SAMPLE 160;methylation class solitary fibrous tumour
+REFERENCE_SAMPLE 161;methylation class solitary fibrous tumour
+REFERENCE_SAMPLE 162;methylation class solitary fibrous tumour
+REFERENCE_SAMPLE 163;methylation class solitary fibrous tumour
+REFERENCE_SAMPLE 164;methylation class rhabdomyosarcoma (alveolar)
+REFERENCE_SAMPLE 165;methylation class schwannoma
+REFERENCE_SAMPLE 166;methylation class solitary fibrous tumour
+REFERENCE_SAMPLE 167;methylation class atypical fibroxanthoma / pleomorphic dermal sarcoma
+REFERENCE_SAMPLE 168;methylation class atypical fibroxanthoma / pleomorphic dermal sarcoma
+REFERENCE_SAMPLE 169;methylation class atypical fibroxanthoma / pleomorphic dermal sarcoma
+REFERENCE_SAMPLE 170;methylation class atypical fibroxanthoma / pleomorphic dermal sarcoma
+REFERENCE_SAMPLE 171;methylation class atypical fibroxanthoma / pleomorphic dermal sarcoma
+REFERENCE_SAMPLE 172;methylation class atypical fibroxanthoma / pleomorphic dermal sarcoma
+REFERENCE_SAMPLE 173;methylation class atypical fibroxanthoma / pleomorphic dermal sarcoma
+REFERENCE_SAMPLE 174;methylation class atypical fibroxanthoma / pleomorphic dermal sarcoma
+REFERENCE_SAMPLE 175;methylation class atypical fibroxanthoma / pleomorphic dermal sarcoma
+REFERENCE_SAMPLE 176;methylation class atypical fibroxanthoma / pleomorphic dermal sarcoma
+REFERENCE_SAMPLE 177;methylation class atypical fibroxanthoma / pleomorphic dermal sarcoma
+REFERENCE_SAMPLE 178;methylation class rhabdomyosarcoma (alveolar)
+REFERENCE_SAMPLE 179;methylation class synovial sarcoma
+REFERENCE_SAMPLE 180;methylation class rhabdomyosarcoma (alveolar)
+REFERENCE_SAMPLE 181;methylation class clear cell sarcoma of the kidney
+REFERENCE_SAMPLE 182;methylation class clear cell sarcoma of the kidney
+REFERENCE_SAMPLE 183;methylation class small blue round cell tumour with BCOR alteration
+REFERENCE_SAMPLE 184;methylation class synovial sarcoma
+REFERENCE_SAMPLE 185;methylation class leiomyosarcoma
+REFERENCE_SAMPLE 186;methylation class leiomyosarcoma
+REFERENCE_SAMPLE 187;methylation class desmoplastic small round cell tumour
+REFERENCE_SAMPLE 188;methylation class epithelioid sarcoma
+REFERENCE_SAMPLE 189;methylation class desmoplastic small round cell tumour
+REFERENCE_SAMPLE 190;methylation class desmoplastic small round cell tumour
+REFERENCE_SAMPLE 191;methylation class desmoplastic small round cell tumour
+REFERENCE_SAMPLE 192;methylation class desmoplastic small round cell tumour
+REFERENCE_SAMPLE 193;methylation class desmoplastic small round cell tumour
+REFERENCE_SAMPLE 194;methylation class desmoplastic small round cell tumour
+REFERENCE_SAMPLE 195;methylation class desmoplastic small round cell tumour
+REFERENCE_SAMPLE 196;methylation class desmoplastic small round cell tumour
+REFERENCE_SAMPLE 197;methylation class desmoplastic small round cell tumour
+REFERENCE_SAMPLE 198;methylation class desmoplastic small round cell tumour
+REFERENCE_SAMPLE 199;methylation class desmoplastic small round cell tumour
+REFERENCE_SAMPLE 200;methylation class desmoplastic small round cell tumour
+REFERENCE_SAMPLE 201;methylation class desmoplastic small round cell tumour
+REFERENCE_SAMPLE 202;methylation class myositis ossificans
+REFERENCE_SAMPLE 203;methylation class myositis ossificans
+REFERENCE_SAMPLE 204;methylation class myositis ossificans
+REFERENCE_SAMPLE 205;methylation class myositis ossificans
+REFERENCE_SAMPLE 206;methylation class myositis ossificans
+REFERENCE_SAMPLE 207;methylation class myositis ossificans
+REFERENCE_SAMPLE 208;methylation class myositis ossificans
+REFERENCE_SAMPLE 209;methylation class malignant rhabdoid tumour
+REFERENCE_SAMPLE 210;methylation class malignant rhabdoid tumour
+REFERENCE_SAMPLE 211;methylation class malignant rhabdoid tumour
+REFERENCE_SAMPLE 212;methylation class malignant rhabdoid tumour
+REFERENCE_SAMPLE 213;methylation class malignant rhabdoid tumour
+REFERENCE_SAMPLE 214;methylation class malignant rhabdoid tumour
+REFERENCE_SAMPLE 215;methylation class malignant rhabdoid tumour
+REFERENCE_SAMPLE 216;methylation class malignant rhabdoid tumour
+REFERENCE_SAMPLE 217;methylation class malignant rhabdoid tumour
+REFERENCE_SAMPLE 218;methylation class malignant rhabdoid tumour
+REFERENCE_SAMPLE 219;methylation class malignant rhabdoid tumour
+REFERENCE_SAMPLE 220;methylation class osteosarcoma (high grade)
+REFERENCE_SAMPLE 221;methylation class rhabdomyosarcoma (embryonal)
+REFERENCE_SAMPLE 222;methylation class epithelioid haemangioendothelioma
+REFERENCE_SAMPLE 223;methylation class inflammatory myofibroblastic tumour
+REFERENCE_SAMPLE 224;methylation class inflammatory myofibroblastic tumour
+REFERENCE_SAMPLE 225;methylation class inflammatory myofibroblastic tumour
+REFERENCE_SAMPLE 226;methylation class inflammatory myofibroblastic tumour
+REFERENCE_SAMPLE 227;methylation class inflammatory myofibroblastic tumour
+REFERENCE_SAMPLE 228;methylation class inflammatory myofibroblastic tumour
+REFERENCE_SAMPLE 229;methylation class rhabdomyosarcoma (alveolar)
+REFERENCE_SAMPLE 230;methylation class epithelioid haemangioendothelioma
+REFERENCE_SAMPLE 231;methylation class epithelioid haemangioendothelioma
+REFERENCE_SAMPLE 232;methylation class epithelioid haemangioendothelioma
+REFERENCE_SAMPLE 233;methylation class epithelioid haemangioendothelioma
+REFERENCE_SAMPLE 234;methylation class epithelioid haemangioendothelioma
+REFERENCE_SAMPLE 235;methylation class epithelioid sarcoma
+REFERENCE_SAMPLE 236;methylation class epithelioid sarcoma
+REFERENCE_SAMPLE 237;methylation class epithelioid sarcoma
+REFERENCE_SAMPLE 238;methylation class epithelioid sarcoma
+REFERENCE_SAMPLE 239;methylation class epithelioid sarcoma
+REFERENCE_SAMPLE 240;methylation class malignant rhabdoid tumour
+REFERENCE_SAMPLE 241;methylation class small blue round cell tumour with BCOR alteration
+REFERENCE_SAMPLE 242;methylation class Ewing's sarcoma
+REFERENCE_SAMPLE 243;methylation class rhabdomyosarcoma (alveolar)
+REFERENCE_SAMPLE 244;methylation class solitary fibrous tumour
+REFERENCE_SAMPLE 245;methylation class rhabdomyosarcoma (alveolar)
+REFERENCE_SAMPLE 246;methylation class clear cell sarcoma of the kidney
+REFERENCE_SAMPLE 247;methylation class clear cell sarcoma of the kidney
+REFERENCE_SAMPLE 248;methylation class clear cell sarcoma of the kidney
+REFERENCE_SAMPLE 249;methylation class clear cell sarcoma of the kidney
+REFERENCE_SAMPLE 250;methylation class clear cell sarcoma of the kidney
+REFERENCE_SAMPLE 251;methylation class clear cell sarcoma of the kidney
+REFERENCE_SAMPLE 252;methylation class clear cell sarcoma of the kidney
+REFERENCE_SAMPLE 253;methylation class clear cell sarcoma of the kidney
+REFERENCE_SAMPLE 254;methylation class clear cell sarcoma of the kidney
+REFERENCE_SAMPLE 255;methylation class inflammatory myofibroblastic tumour
+REFERENCE_SAMPLE 256;methylation class angiosarcoma
+REFERENCE_SAMPLE 257;methylation class angiosarcoma
+REFERENCE_SAMPLE 258;methylation class rhabdomyosarcoma (alveolar)
+REFERENCE_SAMPLE 259;methylation class extraskeletal myxoid chondrosarcoma
+REFERENCE_SAMPLE 260;methylation class infantile fibrosarcoma
+REFERENCE_SAMPLE 261;methylation class leiomyosarcoma
+REFERENCE_SAMPLE 262;methylation class chondrosarcoma (IDH group A)
+REFERENCE_SAMPLE 263;methylation class chondrosarcoma (group B)
+REFERENCE_SAMPLE 264;methylation class sarcoma (RMS-like)
+REFERENCE_SAMPLE 265;methylation class chondrosarcoma (IDH group B)
+REFERENCE_SAMPLE 266;methylation class rhabdomyosarcoma (embryonal)
+REFERENCE_SAMPLE 267;methylation class chondrosarcoma (group A)
+REFERENCE_SAMPLE 268;methylation class chondrosarcoma (group B)
+REFERENCE_SAMPLE 269;methylation class chondrosarcoma (IDH group B)
+REFERENCE_SAMPLE 270;methylation class chondrosarcoma (IDH group A)
+REFERENCE_SAMPLE 271;methylation class chondrosarcoma (IDH group B)
+REFERENCE_SAMPLE 272;methylation class chondrosarcoma (IDH group B)
+REFERENCE_SAMPLE 273;methylation class chondrosarcoma (IDH group B)
+REFERENCE_SAMPLE 274;methylation class chondrosarcoma (IDH group B)
+REFERENCE_SAMPLE 275;methylation class chondrosarcoma (group A)
+REFERENCE_SAMPLE 276;methylation class chondrosarcoma (IDH group B)
+REFERENCE_SAMPLE 277;methylation class chondrosarcoma (IDH group B)
+REFERENCE_SAMPLE 278;methylation class chondrosarcoma (IDH group B)
+REFERENCE_SAMPLE 279;methylation class chondrosarcoma (group A)
+REFERENCE_SAMPLE 280;methylation class chondrosarcoma (group B)
+REFERENCE_SAMPLE 281;methylation class rhabdomyosarcoma (alveolar)
+REFERENCE_SAMPLE 282;methylation class chondrosarcoma (mesenchymal)
+REFERENCE_SAMPLE 283;methylation class chondrosarcoma (IDH group B)
+REFERENCE_SAMPLE 284;methylation class chondrosarcoma (group A)
+REFERENCE_SAMPLE 285;methylation class chondrosarcoma (group A)
+REFERENCE_SAMPLE 286;methylation class chondrosarcoma (IDH group B)
+REFERENCE_SAMPLE 287;methylation class chondrosarcoma (IDH group B)
+REFERENCE_SAMPLE 288;methylation class lipoma
+REFERENCE_SAMPLE 289;methylation class control (reactive tissue)
+REFERENCE_SAMPLE 290;methylation class control (reactive tissue)
+REFERENCE_SAMPLE 291;methylation class control (reactive tissue)
+REFERENCE_SAMPLE 292;methylation class lipoma
+REFERENCE_SAMPLE 293;methylation class small blue round cell tumour with CIC alteration
+REFERENCE_SAMPLE 294;methylation class Ewing's sarcoma
+REFERENCE_SAMPLE 295;methylation class Ewing's sarcoma
+REFERENCE_SAMPLE 296;methylation class Ewing's sarcoma
+REFERENCE_SAMPLE 297;methylation class sarcoma (RMS-like)
+REFERENCE_SAMPLE 298;methylation class synovial sarcoma
+REFERENCE_SAMPLE 299;methylation class control (reactive tissue)
+REFERENCE_SAMPLE 300;methylation class myxoid liposarcoma
+REFERENCE_SAMPLE 301;methylation class rhabdomyosarcoma (alveolar)
+REFERENCE_SAMPLE 302;methylation class desmoplastic small round cell tumour
+REFERENCE_SAMPLE 303;methylation class rhabdomyosarcoma (alveolar)
+REFERENCE_SAMPLE 304;methylation class rhabdomyosarcoma (embryonal)
+REFERENCE_SAMPLE 305;methylation class rhabdomyosarcoma (embryonal)
+REFERENCE_SAMPLE 306;methylation class rhabdomyosarcoma (embryonal)
+REFERENCE_SAMPLE 307;methylation class rhabdomyosarcoma (alveolar)
+REFERENCE_SAMPLE 308;methylation class rhabdomyosarcoma (alveolar)
+REFERENCE_SAMPLE 309;methylation class rhabdomyosarcoma (alveolar)
+REFERENCE_SAMPLE 310;methylation class rhabdomyosarcoma (alveolar)
+REFERENCE_SAMPLE 311;methylation class rhabdomyosarcoma (alveolar)
+REFERENCE_SAMPLE 312;methylation class synovial sarcoma
+REFERENCE_SAMPLE 313;methylation class myxoid liposarcoma
+REFERENCE_SAMPLE 314;methylation class small blue round cell tumour with BCOR alteration
+REFERENCE_SAMPLE 315;methylation class synovial sarcoma
+REFERENCE_SAMPLE 316;methylation class small blue round cell tumour with CIC alteration
+REFERENCE_SAMPLE 317;methylation class Ewing's sarcoma
+REFERENCE_SAMPLE 318;methylation class Ewing's sarcoma
+REFERENCE_SAMPLE 319;methylation class Ewing's sarcoma
+REFERENCE_SAMPLE 320;methylation class Ewing's sarcoma
+REFERENCE_SAMPLE 321;methylation class sarcoma (RMS-like)
+REFERENCE_SAMPLE 322;methylation class infantile fibrosarcoma
+REFERENCE_SAMPLE 323;methylation class infantile fibrosarcoma
+REFERENCE_SAMPLE 324;methylation class infantile fibrosarcoma
+REFERENCE_SAMPLE 325;methylation class infantile fibrosarcoma
+REFERENCE_SAMPLE 326;methylation class infantile fibrosarcoma
+REFERENCE_SAMPLE 327;methylation class infantile fibrosarcoma
+REFERENCE_SAMPLE 328;methylation class infantile fibrosarcoma
+REFERENCE_SAMPLE 329;methylation class infantile fibrosarcoma
+REFERENCE_SAMPLE 330;methylation class infantile fibrosarcoma
+REFERENCE_SAMPLE 331;methylation class infantile fibrosarcoma
+REFERENCE_SAMPLE 332;methylation class nodular fasciitis
+REFERENCE_SAMPLE 333;methylation class nodular fasciitis
+REFERENCE_SAMPLE 334;methylation class nodular fasciitis
+REFERENCE_SAMPLE 335;methylation class nodular fasciitis
+REFERENCE_SAMPLE 336;methylation class nodular fasciitis
+REFERENCE_SAMPLE 337;methylation class nodular fasciitis
+REFERENCE_SAMPLE 338;methylation class nodular fasciitis
+REFERENCE_SAMPLE 339;methylation class infantile fibrosarcoma
+REFERENCE_SAMPLE 340;methylation class angiomatoid fibrous histiocytoma
+REFERENCE_SAMPLE 341;methylation class angiomatoid fibrous histiocytoma
+REFERENCE_SAMPLE 342;methylation class dermatofibrosarcoma protuberans
+REFERENCE_SAMPLE 343;methylation class dermatofibrosarcoma protuberans
+REFERENCE_SAMPLE 344;methylation class dermatofibrosarcoma protuberans
+REFERENCE_SAMPLE 345;methylation class dermatofibrosarcoma protuberans
+REFERENCE_SAMPLE 346;methylation class dermatofibrosarcoma protuberans
+REFERENCE_SAMPLE 347;methylation class dermatofibrosarcoma protuberans
+REFERENCE_SAMPLE 348;methylation class dermatofibrosarcoma protuberans
+REFERENCE_SAMPLE 349;methylation class dermatofibrosarcoma protuberans
+REFERENCE_SAMPLE 350;methylation class dermatofibrosarcoma protuberans
+REFERENCE_SAMPLE 351;methylation class alveolar soft part sarcoma
+REFERENCE_SAMPLE 352;methylation class alveolar soft part sarcoma
+REFERENCE_SAMPLE 353;methylation class alveolar soft part sarcoma
+REFERENCE_SAMPLE 354;methylation class alveolar soft part sarcoma
+REFERENCE_SAMPLE 355;methylation class alveolar soft part sarcoma
+REFERENCE_SAMPLE 356;methylation class alveolar soft part sarcoma
+REFERENCE_SAMPLE 357;methylation class alveolar soft part sarcoma
+REFERENCE_SAMPLE 358;methylation class alveolar soft part sarcoma
+REFERENCE_SAMPLE 359;methylation class alveolar soft part sarcoma
+REFERENCE_SAMPLE 360;methylation class angiomatoid fibrous histiocytoma
+REFERENCE_SAMPLE 361;methylation class angiomatoid fibrous histiocytoma
+REFERENCE_SAMPLE 362;methylation class angiomatoid fibrous histiocytoma
+REFERENCE_SAMPLE 363;methylation class angiomatoid fibrous histiocytoma
+REFERENCE_SAMPLE 364;methylation class angiomatoid fibrous histiocytoma
+REFERENCE_SAMPLE 365;methylation class lipoma
+REFERENCE_SAMPLE 366;methylation class osteosarcoma (high grade)
+REFERENCE_SAMPLE 367;methylation class osteosarcoma (high grade)
+REFERENCE_SAMPLE 368;methylation class osteosarcoma (high grade)
+REFERENCE_SAMPLE 369;methylation class osteosarcoma (high grade)
+REFERENCE_SAMPLE 370;methylation class osteosarcoma (high grade)
+REFERENCE_SAMPLE 371;methylation class osteosarcoma (high grade)
+REFERENCE_SAMPLE 372;methylation class osteosarcoma (high grade)
+REFERENCE_SAMPLE 373;methylation class osteosarcoma (high grade)
+REFERENCE_SAMPLE 374;methylation class osteosarcoma (high grade)
+REFERENCE_SAMPLE 375;methylation class osteosarcoma (high grade)
+REFERENCE_SAMPLE 376;methylation class osteosarcoma (high grade)
+REFERENCE_SAMPLE 377;methylation class osteosarcoma (high grade)
+REFERENCE_SAMPLE 378;methylation class osteosarcoma (high grade)
+REFERENCE_SAMPLE 379;methylation class osteosarcoma (high grade)
+REFERENCE_SAMPLE 380;methylation class rhabdomyosarcoma (embryonal)
+REFERENCE_SAMPLE 381;methylation class malignant rhabdoid tumour
+REFERENCE_SAMPLE 382;methylation class Ewing's sarcoma
+REFERENCE_SAMPLE 383;methylation class Ewing's sarcoma
+REFERENCE_SAMPLE 384;methylation class rhabdomyosarcoma (embryonal)
+REFERENCE_SAMPLE 385;methylation class rhabdomyosarcoma (alveolar)
+REFERENCE_SAMPLE 386;methylation class fibrous dysplasia
+REFERENCE_SAMPLE 387;methylation class chordoma
+REFERENCE_SAMPLE 388;methylation class myositis proliferans
+REFERENCE_SAMPLE 389;methylation class myositis ossificans
+REFERENCE_SAMPLE 390;methylation class myositis proliferans
+REFERENCE_SAMPLE 391;methylation class leiomyosarcoma
+REFERENCE_SAMPLE 392;methylation class myositis proliferans
+REFERENCE_SAMPLE 393;methylation class myositis proliferans
+REFERENCE_SAMPLE 394;methylation class myositis proliferans
+REFERENCE_SAMPLE 395;methylation class myositis proliferans
+REFERENCE_SAMPLE 396;methylation class myositis proliferans
+REFERENCE_SAMPLE 397;methylation class leiomyosarcoma
+REFERENCE_SAMPLE 398;methylation class ossifying fibromyxoid tumour
+REFERENCE_SAMPLE 399;methylation class osteosarcoma (high grade)
+REFERENCE_SAMPLE 400;methylation class epithelioid sarcoma
+REFERENCE_SAMPLE 401;methylation class epithelioid sarcoma
+REFERENCE_SAMPLE 402;methylation class epithelioid sarcoma
+REFERENCE_SAMPLE 403;methylation class ossifying fibromyxoid tumour
+REFERENCE_SAMPLE 404;methylation class ossifying fibromyxoid tumour
+REFERENCE_SAMPLE 405;methylation class ossifying fibromyxoid tumour
+REFERENCE_SAMPLE 406;methylation class ossifying fibromyxoid tumour
+REFERENCE_SAMPLE 407;methylation class ossifying fibromyxoid tumour
+REFERENCE_SAMPLE 408;methylation class ossifying fibromyxoid tumour
+REFERENCE_SAMPLE 409;methylation class ossifying fibromyxoid tumour
+REFERENCE_SAMPLE 410;methylation class ossifying fibromyxoid tumour
+REFERENCE_SAMPLE 411;methylation class ossifying fibromyxoid tumour
+REFERENCE_SAMPLE 412;methylation class ossifying fibromyxoid tumour
+REFERENCE_SAMPLE 413;methylation class ossifying fibromyxoid tumour
+REFERENCE_SAMPLE 414;methylation class ossifying fibromyxoid tumour
+REFERENCE_SAMPLE 415;methylation class undifferentiated sarcoma
+REFERENCE_SAMPLE 416;methylation class fibrous dysplasia
+REFERENCE_SAMPLE 417;methylation class chondrosarcoma (IDH group A)
+REFERENCE_SAMPLE 418;methylation class chordoma
+REFERENCE_SAMPLE 419;methylation class chondrosarcoma (group B)
+REFERENCE_SAMPLE 420;methylation class chondrosarcoma (mesenchymal)
+REFERENCE_SAMPLE 421;methylation class chondrosarcoma (group A)
+REFERENCE_SAMPLE 422;methylation class extraskeletal myxoid chondrosarcoma
+REFERENCE_SAMPLE 423;methylation class chondrosarcoma (group B)
+REFERENCE_SAMPLE 424;methylation class chondrosarcoma (group B)
+REFERENCE_SAMPLE 425;methylation class desmoplastic small round cell tumour
+REFERENCE_SAMPLE 426;methylation class desmoplastic small round cell tumour
+REFERENCE_SAMPLE 427;methylation class desmoplastic small round cell tumour
+REFERENCE_SAMPLE 428;methylation class rhabdomyosarcoma (alveolar)
+REFERENCE_SAMPLE 429;methylation class rhabdomyosarcoma (alveolar)
+REFERENCE_SAMPLE 430;methylation class epithelioid sarcoma
+REFERENCE_SAMPLE 431;methylation class epithelioid sarcoma
+REFERENCE_SAMPLE 432;methylation class epithelioid sarcoma
+REFERENCE_SAMPLE 433;methylation class epithelioid sarcoma
+REFERENCE_SAMPLE 434;methylation class epithelioid sarcoma
+REFERENCE_SAMPLE 435;methylation class epithelioid sarcoma
+REFERENCE_SAMPLE 436;methylation class fibrous dysplasia
+REFERENCE_SAMPLE 437;methylation class fibrous dysplasia
+REFERENCE_SAMPLE 438;methylation class fibrous dysplasia
+REFERENCE_SAMPLE 439;methylation class alveolar soft part sarcoma
+REFERENCE_SAMPLE 440;methylation class chondrosarcoma (mesenchymal)
+REFERENCE_SAMPLE 441;methylation class rhabdomyosarcoma (embryonal)
+REFERENCE_SAMPLE 442;methylation class rhabdomyosarcoma (embryonal)
+REFERENCE_SAMPLE 443;methylation class desmoplastic small round cell tumour
+REFERENCE_SAMPLE 444;methylation class osteosarcoma (high grade)
+REFERENCE_SAMPLE 445;methylation class rhabdomyosarcoma (embryonal)
+REFERENCE_SAMPLE 446;methylation class sarcoma (RMS-like)
+REFERENCE_SAMPLE 447;methylation class solitary fibrous tumour
+REFERENCE_SAMPLE 448;methylation class sarcoma (MPNST-like)
+REFERENCE_SAMPLE 449;methylation class angiosarcoma
+REFERENCE_SAMPLE 450;methylation class gastrointestinal stromal tumour
+REFERENCE_SAMPLE 451;methylation class alveolar soft part sarcoma
+REFERENCE_SAMPLE 452;methylation class gastrointestinal stromal tumour
+REFERENCE_SAMPLE 453;methylation class leiomyosarcoma
+REFERENCE_SAMPLE 454;methylation class leiomyosarcoma
+REFERENCE_SAMPLE 455;methylation class undifferentiated sarcoma
+REFERENCE_SAMPLE 456;methylation class fibrous dysplasia
+REFERENCE_SAMPLE 457;methylation class control (reactive tissue)
+REFERENCE_SAMPLE 458;methylation class control (reactive tissue)
+REFERENCE_SAMPLE 459;methylation class control (reactive tissue)
+REFERENCE_SAMPLE 460;methylation class control (reactive tissue)
+REFERENCE_SAMPLE 461;methylation class control (reactive tissue)
+REFERENCE_SAMPLE 462;methylation class control (reactive tissue)
+REFERENCE_SAMPLE 463;methylation class Ewing's sarcoma
+REFERENCE_SAMPLE 464;methylation class Ewing's sarcoma
+REFERENCE_SAMPLE 465;methylation class chordoma (dedifferentiated)
+REFERENCE_SAMPLE 466;methylation class rhabdomyosarcoma (embryonal)
+REFERENCE_SAMPLE 467;methylation class lipoma
+REFERENCE_SAMPLE 468;methylation class lipoma
+REFERENCE_SAMPLE 469;methylation class lipoma
+REFERENCE_SAMPLE 470;methylation class lipoma
+REFERENCE_SAMPLE 471;methylation class lipoma
+REFERENCE_SAMPLE 472;methylation class lipoma
+REFERENCE_SAMPLE 473;methylation class gastrointestinal stromal tumour
+REFERENCE_SAMPLE 474;methylation class gastrointestinal stromal tumour
+REFERENCE_SAMPLE 475;methylation class gastrointestinal stromal tumour
+REFERENCE_SAMPLE 476;methylation class gastrointestinal stromal tumour
+REFERENCE_SAMPLE 477;methylation class gastrointestinal stromal tumour
+REFERENCE_SAMPLE 478;methylation class gastrointestinal stromal tumour
+REFERENCE_SAMPLE 479;methylation class small blue round cell tumour with BCOR alteration
+REFERENCE_SAMPLE 480;methylation class malignant rhabdoid tumour
+REFERENCE_SAMPLE 481;methylation class small blue round cell tumour with BCOR alteration
+REFERENCE_SAMPLE 482;methylation class small blue round cell tumour with BCOR alteration
+REFERENCE_SAMPLE 483;methylation class synovial sarcoma
+REFERENCE_SAMPLE 484;methylation class osteosarcoma (high grade)
+REFERENCE_SAMPLE 485;methylation class osteosarcoma (high grade)
+REFERENCE_SAMPLE 486;methylation class osteosarcoma (high grade)
+REFERENCE_SAMPLE 487;methylation class osteosarcoma (high grade)
+REFERENCE_SAMPLE 488;methylation class osteosarcoma (high grade)
+REFERENCE_SAMPLE 489;methylation class angiosarcoma
+REFERENCE_SAMPLE 490;methylation class rhabdomyosarcoma (alveolar)
+REFERENCE_SAMPLE 491;methylation class rhabdomyosarcoma (embryonal)
+REFERENCE_SAMPLE 492;methylation class rhabdomyosarcoma (embryonal)
+REFERENCE_SAMPLE 493;methylation class rhabdomyosarcoma (embryonal)
+REFERENCE_SAMPLE 494;methylation class rhabdomyosarcoma (embryonal)
+REFERENCE_SAMPLE 495;methylation class rhabdomyosarcoma (embryonal)
+REFERENCE_SAMPLE 496;methylation class rhabdomyosarcoma (embryonal)
+REFERENCE_SAMPLE 497;methylation class rhabdomyosarcoma (embryonal)
+REFERENCE_SAMPLE 498;methylation class rhabdomyosarcoma (embryonal)
+REFERENCE_SAMPLE 499;methylation class dermatofibrosarcoma protuberans
+REFERENCE_SAMPLE 500;methylation class dermatofibrosarcoma protuberans
+REFERENCE_SAMPLE 501;methylation class dermatofibrosarcoma protuberans
+REFERENCE_SAMPLE 502;methylation class dermatofibrosarcoma protuberans
+REFERENCE_SAMPLE 503;methylation class dermatofibrosarcoma protuberans
+REFERENCE_SAMPLE 504;methylation class dermatofibrosarcoma protuberans
+REFERENCE_SAMPLE 505;methylation class dermatofibrosarcoma protuberans
+REFERENCE_SAMPLE 506;methylation class dermatofibrosarcoma protuberans
+REFERENCE_SAMPLE 507;methylation class dermatofibrosarcoma protuberans
+REFERENCE_SAMPLE 508;methylation class dermatofibrosarcoma protuberans
+REFERENCE_SAMPLE 509;methylation class dermatofibrosarcoma protuberans
+REFERENCE_SAMPLE 510;methylation class dermatofibrosarcoma protuberans
+REFERENCE_SAMPLE 511;methylation class dermatofibrosarcoma protuberans
+REFERENCE_SAMPLE 512;methylation class dermatofibrosarcoma protuberans
+REFERENCE_SAMPLE 513;methylation class dermatofibrosarcoma protuberans
+REFERENCE_SAMPLE 514;methylation class dermatofibrosarcoma protuberans
+REFERENCE_SAMPLE 515;methylation class dermatofibrosarcoma protuberans
+REFERENCE_SAMPLE 516;methylation class dermatofibrosarcoma protuberans
+REFERENCE_SAMPLE 517;methylation class dermatofibrosarcoma protuberans
+REFERENCE_SAMPLE 518;methylation class dermatofibrosarcoma protuberans
+REFERENCE_SAMPLE 519;methylation class dermatofibrosarcoma protuberans
+REFERENCE_SAMPLE 520;methylation class dermatofibrosarcoma protuberans
+REFERENCE_SAMPLE 521;methylation class dermatofibrosarcoma protuberans
+REFERENCE_SAMPLE 522;methylation class dermatofibrosarcoma protuberans
+REFERENCE_SAMPLE 523;methylation class small blue round cell tumour with CIC alteration
+REFERENCE_SAMPLE 524;methylation class small blue round cell tumour with CIC alteration
+REFERENCE_SAMPLE 525;methylation class small blue round cell tumour with CIC alteration
+REFERENCE_SAMPLE 526;methylation class small blue round cell tumour with CIC alteration
+REFERENCE_SAMPLE 527;methylation class rhabdomyosarcoma (embryonal)
+REFERENCE_SAMPLE 528;methylation class desmoplastic small round cell tumour
+REFERENCE_SAMPLE 529;methylation class chordoma
+REFERENCE_SAMPLE 530;methylation class chordoma
+REFERENCE_SAMPLE 531;methylation class giant cell tumour of bone
+REFERENCE_SAMPLE 532;methylation class chordoma
+REFERENCE_SAMPLE 533;methylation class chordoma
+REFERENCE_SAMPLE 534;methylation class chordoma
+REFERENCE_SAMPLE 535;methylation class chordoma
+REFERENCE_SAMPLE 536;methylation class chordoma
+REFERENCE_SAMPLE 537;methylation class chordoma
+REFERENCE_SAMPLE 538;methylation class chordoma
+REFERENCE_SAMPLE 539;methylation class chordoma
+REFERENCE_SAMPLE 540;methylation class chordoma
+REFERENCE_SAMPLE 541;methylation class chordoma
+REFERENCE_SAMPLE 542;methylation class chondrosarcoma (IDH group A)
+REFERENCE_SAMPLE 543;methylation class chordoma
+REFERENCE_SAMPLE 544;methylation class chordoma
+REFERENCE_SAMPLE 545;methylation class chordoma
+REFERENCE_SAMPLE 546;methylation class chordoma
+REFERENCE_SAMPLE 547;methylation class chondrosarcoma (IDH group A)
+REFERENCE_SAMPLE 548;methylation class chordoma
+REFERENCE_SAMPLE 549;methylation class chondrosarcoma (IDH group A)
+REFERENCE_SAMPLE 550;methylation class chordoma
+REFERENCE_SAMPLE 551;methylation class chordoma
+REFERENCE_SAMPLE 552;methylation class malignant peripheral nerve sheath tumour
+REFERENCE_SAMPLE 553;methylation class Ewing's sarcoma
+REFERENCE_SAMPLE 554;methylation class giant cell tumour of bone
+REFERENCE_SAMPLE 555;methylation class Ewing's sarcoma
+REFERENCE_SAMPLE 556;methylation class Ewing's sarcoma
+REFERENCE_SAMPLE 557;methylation class Ewing's sarcoma
+REFERENCE_SAMPLE 558;methylation class Ewing's sarcoma
+REFERENCE_SAMPLE 559;methylation class small blue round cell tumour with CIC alteration
+REFERENCE_SAMPLE 560;methylation class small blue round cell tumour with CIC alteration
+REFERENCE_SAMPLE 561;methylation class giant cell tumour of bone
+REFERENCE_SAMPLE 562;methylation class giant cell tumour of bone
+REFERENCE_SAMPLE 563;methylation class malignant peripheral nerve sheath tumour
+REFERENCE_SAMPLE 564;methylation class desmoplastic small round cell tumour
+REFERENCE_SAMPLE 565;methylation class chondrosarcoma (IDH group A)
+REFERENCE_SAMPLE 566;methylation class giant cell tumour of bone
+REFERENCE_SAMPLE 567;methylation class giant cell tumour of bone
+REFERENCE_SAMPLE 568;methylation class giant cell tumour of bone
+REFERENCE_SAMPLE 569;methylation class sarcoma (RMS-like)
+REFERENCE_SAMPLE 570;methylation class giant cell tumour of bone
+REFERENCE_SAMPLE 571;methylation class fibrous dysplasia
+REFERENCE_SAMPLE 572;methylation class fibrous dysplasia
+REFERENCE_SAMPLE 573;methylation class fibrous dysplasia
+REFERENCE_SAMPLE 574;methylation class fibrous dysplasia
+REFERENCE_SAMPLE 575;methylation class alveolar soft part sarcoma
+REFERENCE_SAMPLE 576;methylation class osteosarcoma (high grade)
+REFERENCE_SAMPLE 577;methylation class osteoblastoma
+REFERENCE_SAMPLE 578;methylation class osteosarcoma (high grade)
+REFERENCE_SAMPLE 579;methylation class giant cell tumour of bone
+REFERENCE_SAMPLE 580;methylation class Ewing's sarcoma
+REFERENCE_SAMPLE 581;methylation class undifferentiated sarcoma
+REFERENCE_SAMPLE 582;methylation class undifferentiated sarcoma
+REFERENCE_SAMPLE 583;methylation class undifferentiated sarcoma
+REFERENCE_SAMPLE 584;methylation class rhabdomyosarcoma (alveolar)
+REFERENCE_SAMPLE 585;methylation class rhabdomyosarcoma (embryonal)
+REFERENCE_SAMPLE 586;methylation class chordoma (dedifferentiated)
+REFERENCE_SAMPLE 587;methylation class chordoma (dedifferentiated)
+REFERENCE_SAMPLE 588;methylation class chordoma (dedifferentiated)
+REFERENCE_SAMPLE 589;methylation class rhabdomyosarcoma (embryonal)
+REFERENCE_SAMPLE 590;methylation class desmoid-type fibromatosis
+REFERENCE_SAMPLE 591;methylation class desmoid-type fibromatosis
+REFERENCE_SAMPLE 592;methylation class desmoid-type fibromatosis
+REFERENCE_SAMPLE 593;methylation class desmoid-type fibromatosis
+REFERENCE_SAMPLE 594;methylation class rhabdomyosarcoma (alveolar)
+REFERENCE_SAMPLE 595;methylation class desmoplastic small round cell tumour
+REFERENCE_SAMPLE 596;methylation class small blue round cell tumour with BCOR alteration
+REFERENCE_SAMPLE 597;methylation class myxoid liposarcoma
+REFERENCE_SAMPLE 598;methylation class osteosarcoma (high grade)
+REFERENCE_SAMPLE 599;methylation class rhabdomyosarcoma (alveolar)
+REFERENCE_SAMPLE 600;methylation class solitary fibrous tumour
+REFERENCE_SAMPLE 601;methylation class rhabdomyosarcoma (alveolar)
+REFERENCE_SAMPLE 602;methylation class Ewing's sarcoma
+REFERENCE_SAMPLE 603;methylation class rhabdomyosarcoma (alveolar)
+REFERENCE_SAMPLE 604;methylation class Ewing's sarcoma
+REFERENCE_SAMPLE 605;methylation class Ewing's sarcoma
+REFERENCE_SAMPLE 606;methylation class Ewing's sarcoma
+REFERENCE_SAMPLE 607;methylation class Ewing's sarcoma
+REFERENCE_SAMPLE 608;methylation class Ewing's sarcoma
+REFERENCE_SAMPLE 609;methylation class Ewing's sarcoma
+REFERENCE_SAMPLE 610;methylation class Ewing's sarcoma
+REFERENCE_SAMPLE 611;methylation class Ewing's sarcoma
+REFERENCE_SAMPLE 612;methylation class synovial sarcoma
+REFERENCE_SAMPLE 613;methylation class osteosarcoma (high grade)
+REFERENCE_SAMPLE 614;methylation class osteosarcoma (high grade)
+REFERENCE_SAMPLE 615;methylation class desmoid-type fibromatosis
+REFERENCE_SAMPLE 616;methylation class desmoid-type fibromatosis
+REFERENCE_SAMPLE 617;methylation class desmoid-type fibromatosis
+REFERENCE_SAMPLE 618;methylation class osteosarcoma (high grade)
+REFERENCE_SAMPLE 619;methylation class desmoid-type fibromatosis
+REFERENCE_SAMPLE 620;methylation class desmoid-type fibromatosis
+REFERENCE_SAMPLE 621;methylation class desmoid-type fibromatosis
+REFERENCE_SAMPLE 622;methylation class desmoid-type fibromatosis
+REFERENCE_SAMPLE 623;methylation class osteosarcoma (high grade)
+REFERENCE_SAMPLE 624;methylation class Ewing's sarcoma
+REFERENCE_SAMPLE 625;methylation class osteosarcoma (high grade)
+REFERENCE_SAMPLE 626;methylation class dermatofibrosarcoma protuberans
+REFERENCE_SAMPLE 627;methylation class Ewing's sarcoma
+REFERENCE_SAMPLE 628;methylation class Ewing's sarcoma
+REFERENCE_SAMPLE 629;methylation class small blue round cell tumour with CIC alteration
+REFERENCE_SAMPLE 630;methylation class osteosarcoma (high grade)
+REFERENCE_SAMPLE 631;methylation class osteosarcoma (high grade)
+REFERENCE_SAMPLE 632;methylation class dermatofibrosarcoma protuberans
+REFERENCE_SAMPLE 633;methylation class rhabdomyosarcoma (embryonal)
+REFERENCE_SAMPLE 634;methylation class osteosarcoma (high grade)
+REFERENCE_SAMPLE 635;methylation class chordoma (dedifferentiated)
+REFERENCE_SAMPLE 636;methylation class chordoma (dedifferentiated)
+REFERENCE_SAMPLE 637;methylation class chordoma (dedifferentiated)
+REFERENCE_SAMPLE 638;methylation class chordoma (dedifferentiated)
+REFERENCE_SAMPLE 639;methylation class synovial sarcoma
+REFERENCE_SAMPLE 640;methylation class synovial sarcoma
+REFERENCE_SAMPLE 641;methylation class synovial sarcoma
+REFERENCE_SAMPLE 642;methylation class synovial sarcoma
+REFERENCE_SAMPLE 643;methylation class synovial sarcoma
+REFERENCE_SAMPLE 644;methylation class synovial sarcoma
+REFERENCE_SAMPLE 645;methylation class myxoid liposarcoma
+REFERENCE_SAMPLE 646;methylation class myxoid liposarcoma
+REFERENCE_SAMPLE 647;methylation class myxoid liposarcoma
+REFERENCE_SAMPLE 648;methylation class myxoid liposarcoma
+REFERENCE_SAMPLE 649;methylation class myxoid liposarcoma
+REFERENCE_SAMPLE 650;methylation class myxoid liposarcoma
+REFERENCE_SAMPLE 651;methylation class extraskeletal myxoid chondrosarcoma
+REFERENCE_SAMPLE 652;methylation class myxoid liposarcoma
+REFERENCE_SAMPLE 653;methylation class myxoid liposarcoma
+REFERENCE_SAMPLE 654;methylation class myxoid liposarcoma
+REFERENCE_SAMPLE 655;methylation class sarcoma (RMS-like)
+REFERENCE_SAMPLE 656;methylation class myxoid liposarcoma
+REFERENCE_SAMPLE 657;methylation class myxoid liposarcoma
+REFERENCE_SAMPLE 658;methylation class myxoid liposarcoma
+REFERENCE_SAMPLE 659;methylation class myxoid liposarcoma
+REFERENCE_SAMPLE 660;methylation class myxoid liposarcoma
+REFERENCE_SAMPLE 661;methylation class myxoid liposarcoma
+REFERENCE_SAMPLE 662;methylation class myxoid liposarcoma
+REFERENCE_SAMPLE 663;methylation class myxoid liposarcoma
+REFERENCE_SAMPLE 664;methylation class undifferentiated sarcoma
+REFERENCE_SAMPLE 665;methylation class extraskeletal myxoid chondrosarcoma
+REFERENCE_SAMPLE 666;methylation class extraskeletal myxoid chondrosarcoma
+REFERENCE_SAMPLE 667;methylation class extraskeletal myxoid chondrosarcoma
+REFERENCE_SAMPLE 668;methylation class extraskeletal myxoid chondrosarcoma
+REFERENCE_SAMPLE 669;methylation class extraskeletal myxoid chondrosarcoma
+REFERENCE_SAMPLE 670;methylation class extraskeletal myxoid chondrosarcoma
+REFERENCE_SAMPLE 671;methylation class low-grade fibromyxoid sarcoma
+REFERENCE_SAMPLE 672;methylation class low-grade fibromyxoid sarcoma
+REFERENCE_SAMPLE 673;methylation class low-grade fibromyxoid sarcoma
+REFERENCE_SAMPLE 674;methylation class low-grade fibromyxoid sarcoma
+REFERENCE_SAMPLE 675;methylation class low-grade fibromyxoid sarcoma
+REFERENCE_SAMPLE 676;methylation class low-grade fibromyxoid sarcoma
+REFERENCE_SAMPLE 677;methylation class low-grade fibromyxoid sarcoma
+REFERENCE_SAMPLE 678;methylation class low-grade fibromyxoid sarcoma
+REFERENCE_SAMPLE 679;methylation class alveolar soft part sarcoma
+REFERENCE_SAMPLE 680;methylation class leiomyosarcoma
+REFERENCE_SAMPLE 681;methylation class leiomyosarcoma
+REFERENCE_SAMPLE 682;methylation class leiomyosarcoma
+REFERENCE_SAMPLE 683;methylation class leiomyosarcoma
+REFERENCE_SAMPLE 684;methylation class osteosarcoma (high grade)
+REFERENCE_SAMPLE 685;methylation class osteosarcoma (high grade)
+REFERENCE_SAMPLE 686;methylation class osteosarcoma (high grade)
+REFERENCE_SAMPLE 687;methylation class osteosarcoma (high grade)
+REFERENCE_SAMPLE 688;methylation class osteosarcoma (high grade)
+REFERENCE_SAMPLE 689;methylation class myxoid liposarcoma
+REFERENCE_SAMPLE 690;methylation class myxoid liposarcoma
+REFERENCE_SAMPLE 691;methylation class myxoid liposarcoma
+REFERENCE_SAMPLE 692;methylation class synovial sarcoma
+REFERENCE_SAMPLE 693;methylation class synovial sarcoma
+REFERENCE_SAMPLE 694;methylation class synovial sarcoma
+REFERENCE_SAMPLE 695;methylation class synovial sarcoma
+REFERENCE_SAMPLE 696;methylation class synovial sarcoma
+REFERENCE_SAMPLE 697;methylation class fibrous dysplasia
+REFERENCE_SAMPLE 698;methylation class fibrous dysplasia
+REFERENCE_SAMPLE 699;methylation class malignant peripheral nerve sheath tumour
+REFERENCE_SAMPLE 700;methylation class malignant peripheral nerve sheath tumour
+REFERENCE_SAMPLE 701;methylation class myxoid liposarcoma
+REFERENCE_SAMPLE 702;methylation class myxoid liposarcoma
+REFERENCE_SAMPLE 703;methylation class myxoid liposarcoma
+REFERENCE_SAMPLE 704;methylation class myxoid liposarcoma
+REFERENCE_SAMPLE 705;methylation class myxoid liposarcoma
+REFERENCE_SAMPLE 706;methylation class myxoid liposarcoma
+REFERENCE_SAMPLE 707;methylation class synovial sarcoma
+REFERENCE_SAMPLE 708;methylation class synovial sarcoma
+REFERENCE_SAMPLE 709;methylation class synovial sarcoma
+REFERENCE_SAMPLE 710;methylation class synovial sarcoma
+REFERENCE_SAMPLE 711;methylation class synovial sarcoma
+REFERENCE_SAMPLE 712;methylation class synovial sarcoma
+REFERENCE_SAMPLE 713;methylation class synovial sarcoma
+REFERENCE_SAMPLE 714;methylation class synovial sarcoma
+REFERENCE_SAMPLE 715;methylation class synovial sarcoma
+REFERENCE_SAMPLE 716;methylation class synovial sarcoma
+REFERENCE_SAMPLE 717;methylation class Ewing's sarcoma
+REFERENCE_SAMPLE 718;methylation class malignant peripheral nerve sheath tumour
+REFERENCE_SAMPLE 719;methylation class rhabdomyosarcoma (alveolar)
+REFERENCE_SAMPLE 720;methylation class sarcoma (MPNST-like)
+REFERENCE_SAMPLE 721;methylation class solitary fibrous tumour
+REFERENCE_SAMPLE 722;methylation class solitary fibrous tumour
+REFERENCE_SAMPLE 723;methylation class desmoid-type fibromatosis
+REFERENCE_SAMPLE 724;methylation class rhabdomyosarcoma (alveolar)
+REFERENCE_SAMPLE 725;methylation class solitary fibrous tumour
+REFERENCE_SAMPLE 726;methylation class sarcoma (RMS-like)
+REFERENCE_SAMPLE 727;methylation class chordoma
+REFERENCE_SAMPLE 728;methylation class chondrosarcoma (group B)
+REFERENCE_SAMPLE 729;methylation class chordoma
+REFERENCE_SAMPLE 730;methylation class chordoma
+REFERENCE_SAMPLE 731;methylation class chordoma
+REFERENCE_SAMPLE 732;methylation class chondrosarcoma (IDH group A)
+REFERENCE_SAMPLE 733;methylation class chondrosarcoma (mesenchymal)
+REFERENCE_SAMPLE 734;methylation class chondrosarcoma (group A)
+REFERENCE_SAMPLE 735;methylation class chondrosarcoma (group A)
+REFERENCE_SAMPLE 736;methylation class chondrosarcoma (group A)
+REFERENCE_SAMPLE 737;methylation class rhabdomyosarcoma (embryonal)
+REFERENCE_SAMPLE 738;methylation class chondrosarcoma (IDH group A)
+REFERENCE_SAMPLE 739;methylation class sarcoma (MPNST-like)
+REFERENCE_SAMPLE 740;methylation class desmoplastic small round cell tumour
+REFERENCE_SAMPLE 741;methylation class solitary fibrous tumour
+REFERENCE_SAMPLE 742;methylation class rhabdomyosarcoma (alveolar)
+REFERENCE_SAMPLE 743;methylation class synovial sarcoma
+REFERENCE_SAMPLE 744;methylation class chordoma
+REFERENCE_SAMPLE 745;methylation class malignant peripheral nerve sheath tumour
+REFERENCE_SAMPLE 746;methylation class sarcoma (MPNST-like)
+REFERENCE_SAMPLE 747;methylation class rhabdomyosarcoma (alveolar)
+REFERENCE_SAMPLE 748;methylation class solitary fibrous tumour
+REFERENCE_SAMPLE 749;methylation class chondrosarcoma (IDH group A)
+REFERENCE_SAMPLE 750;methylation class chordoma
+REFERENCE_SAMPLE 751;methylation class malignant peripheral nerve sheath tumour
+REFERENCE_SAMPLE 752;methylation class sarcoma (MPNST-like)
+REFERENCE_SAMPLE 753;methylation class malignant peripheral nerve sheath tumour
+REFERENCE_SAMPLE 754;methylation class osteosarcoma (high grade)
+REFERENCE_SAMPLE 755;methylation class Ewing's sarcoma
+REFERENCE_SAMPLE 756;methylation class chordoma
+REFERENCE_SAMPLE 757;methylation class chordoma
+REFERENCE_SAMPLE 758;methylation class chordoma
+REFERENCE_SAMPLE 759;methylation class chordoma
+REFERENCE_SAMPLE 760;methylation class chordoma
+REFERENCE_SAMPLE 761;methylation class chordoma
+REFERENCE_SAMPLE 762;methylation class chondrosarcoma (IDH group A)
+REFERENCE_SAMPLE 763;methylation class chondrosarcoma (IDH group A)
+REFERENCE_SAMPLE 764;methylation class neurofibroma
+REFERENCE_SAMPLE 765;methylation class neurofibroma
+REFERENCE_SAMPLE 766;methylation class neurofibroma
+REFERENCE_SAMPLE 767;methylation class neurofibroma
+REFERENCE_SAMPLE 768;methylation class malignant peripheral nerve sheath tumour
+REFERENCE_SAMPLE 769;methylation class malignant peripheral nerve sheath tumour
+REFERENCE_SAMPLE 770;methylation class chondrosarcoma (IDH group A)
+REFERENCE_SAMPLE 771;methylation class chondrosarcoma (group B)
+REFERENCE_SAMPLE 772;methylation class neurofibroma (plexiform)
+REFERENCE_SAMPLE 773;methylation class neurofibroma (plexiform)
+REFERENCE_SAMPLE 774;methylation class malignant peripheral nerve sheath tumour
+REFERENCE_SAMPLE 775;methylation class neurofibroma (plexiform)
+REFERENCE_SAMPLE 776;methylation class rhabdomyosarcoma (alveolar)
+REFERENCE_SAMPLE 777;methylation class synovial sarcoma
+REFERENCE_SAMPLE 778;methylation class schwannoma
+REFERENCE_SAMPLE 779;methylation class neurofibroma (plexiform)
+REFERENCE_SAMPLE 780;methylation class neurofibroma (plexiform)
+REFERENCE_SAMPLE 781;methylation class neurofibroma (plexiform)
+REFERENCE_SAMPLE 782;methylation class neurofibroma (plexiform)
+REFERENCE_SAMPLE 783;methylation class sarcoma (MPNST-like)
+REFERENCE_SAMPLE 784;methylation class malignant peripheral nerve sheath tumour
+REFERENCE_SAMPLE 785;methylation class malignant peripheral nerve sheath tumour
+REFERENCE_SAMPLE 786;methylation class malignant peripheral nerve sheath tumour
+REFERENCE_SAMPLE 787;methylation class malignant peripheral nerve sheath tumour
+REFERENCE_SAMPLE 788;methylation class Ewing's sarcoma
+REFERENCE_SAMPLE 789;methylation class schwannoma
+REFERENCE_SAMPLE 790;methylation class schwannoma
+REFERENCE_SAMPLE 791;methylation class schwannoma
+REFERENCE_SAMPLE 792;methylation class schwannoma
+REFERENCE_SAMPLE 793;methylation class schwannoma
+REFERENCE_SAMPLE 794;methylation class schwannoma
+REFERENCE_SAMPLE 795;methylation class malignant peripheral nerve sheath tumour
+REFERENCE_SAMPLE 796;methylation class malignant peripheral nerve sheath tumour
+REFERENCE_SAMPLE 797;methylation class solitary fibrous tumour
+REFERENCE_SAMPLE 798;methylation class solitary fibrous tumour
+REFERENCE_SAMPLE 799;methylation class malignant peripheral nerve sheath tumour
+REFERENCE_SAMPLE 800;methylation class schwannoma
+REFERENCE_SAMPLE 801;methylation class schwannoma
+REFERENCE_SAMPLE 802;methylation class schwannoma
+REFERENCE_SAMPLE 803;methylation class schwannoma
+REFERENCE_SAMPLE 804;methylation class schwannoma
+REFERENCE_SAMPLE 805;methylation class schwannoma
+REFERENCE_SAMPLE 806;methylation class schwannoma
+REFERENCE_SAMPLE 807;methylation class schwannoma
+REFERENCE_SAMPLE 808;methylation class sarcoma (MPNST-like)
+REFERENCE_SAMPLE 809;methylation class malignant peripheral nerve sheath tumour
+REFERENCE_SAMPLE 810;methylation class schwannoma
+REFERENCE_SAMPLE 811;methylation class schwannoma
+REFERENCE_SAMPLE 812;methylation class neurofibroma
+REFERENCE_SAMPLE 813;methylation class neurofibroma
+REFERENCE_SAMPLE 814;methylation class solitary fibrous tumour
+REFERENCE_SAMPLE 815;methylation class chondrosarcoma (IDH group A)
+REFERENCE_SAMPLE 816;methylation class solitary fibrous tumour
+REFERENCE_SAMPLE 817;methylation class schwannoma
+REFERENCE_SAMPLE 818;methylation class schwannoma
+REFERENCE_SAMPLE 819;methylation class schwannoma
+REFERENCE_SAMPLE 820;methylation class schwannoma
+REFERENCE_SAMPLE 821;methylation class schwannoma
+REFERENCE_SAMPLE 822;methylation class schwannoma
+REFERENCE_SAMPLE 823;methylation class schwannoma
+REFERENCE_SAMPLE 824;methylation class chondrosarcoma (group B)
+REFERENCE_SAMPLE 825;methylation class neurofibroma
+REFERENCE_SAMPLE 826;methylation class chordoma
+REFERENCE_SAMPLE 827;methylation class neurofibroma
+REFERENCE_SAMPLE 828;methylation class neurofibroma
+REFERENCE_SAMPLE 829;methylation class sarcoma (RMS-like)
+REFERENCE_SAMPLE 830;methylation class malignant rhabdoid tumour
+REFERENCE_SAMPLE 831;methylation class angiosarcoma
+REFERENCE_SAMPLE 832;methylation class angiosarcoma
+REFERENCE_SAMPLE 833;methylation class angiosarcoma
+REFERENCE_SAMPLE 834;methylation class angiosarcoma
+REFERENCE_SAMPLE 835;methylation class angiosarcoma
+REFERENCE_SAMPLE 836;methylation class rhabdomyosarcoma (alveolar)
+REFERENCE_SAMPLE 837;methylation class sarcoma (RMS-like)
+REFERENCE_SAMPLE 838;methylation class angiosarcoma
+REFERENCE_SAMPLE 839;methylation class angiosarcoma
+REFERENCE_SAMPLE 840;methylation class angiosarcoma
+REFERENCE_SAMPLE 841;methylation class malignant peripheral nerve sheath tumour
+REFERENCE_SAMPLE 842;methylation class rhabdomyosarcoma (embryonal)
+REFERENCE_SAMPLE 843;methylation class sarcoma (RMS-like)
+REFERENCE_SAMPLE 844;methylation class angiosarcoma
+REFERENCE_SAMPLE 845;methylation class angiosarcoma
+REFERENCE_SAMPLE 846;methylation class angiosarcoma
+REFERENCE_SAMPLE 847;methylation class malignant peripheral nerve sheath tumour
+REFERENCE_SAMPLE 848;methylation class malignant peripheral nerve sheath tumour
+REFERENCE_SAMPLE 849;methylation class alveolar soft part sarcoma
+REFERENCE_SAMPLE 850;methylation class synovial sarcoma
+REFERENCE_SAMPLE 851;methylation class angiosarcoma
+REFERENCE_SAMPLE 852;methylation class small blue round cell tumour with BCOR alteration
+REFERENCE_SAMPLE 853;methylation class angiosarcoma
+REFERENCE_SAMPLE 854;methylation class osteosarcoma (high grade)
+REFERENCE_SAMPLE 855;methylation class desmoplastic small round cell tumour
+REFERENCE_SAMPLE 856;methylation class sarcoma (RMS-like)
+REFERENCE_SAMPLE 857;methylation class osteosarcoma (high grade)
+REFERENCE_SAMPLE 858;methylation class gastrointestinal stromal tumour
+REFERENCE_SAMPLE 859;methylation class gastrointestinal stromal tumour
+REFERENCE_SAMPLE 860;methylation class synovial sarcoma
+REFERENCE_SAMPLE 861;methylation class rhabdomyosarcoma (alveolar)
+REFERENCE_SAMPLE 862;methylation class sarcoma (RMS-like)
+REFERENCE_SAMPLE 863;methylation class malignant peripheral nerve sheath tumour
+REFERENCE_SAMPLE 864;methylation class chondrosarcoma (IDH group A)
+REFERENCE_SAMPLE 865;methylation class synovial sarcoma
+REFERENCE_SAMPLE 866;methylation class gastrointestinal stromal tumour
+REFERENCE_SAMPLE 867;methylation class rhabdomyosarcoma (embryonal)
+REFERENCE_SAMPLE 868;methylation class angiosarcoma
+REFERENCE_SAMPLE 869;methylation class osteosarcoma (high grade)
+REFERENCE_SAMPLE 870;methylation class synovial sarcoma
+REFERENCE_SAMPLE 871;methylation class angiosarcoma
+REFERENCE_SAMPLE 872;methylation class dermatofibrosarcoma protuberans
+REFERENCE_SAMPLE 873;methylation class angiosarcoma
+REFERENCE_SAMPLE 874;methylation class chordoma
+REFERENCE_SAMPLE 875;methylation class gastrointestinal stromal tumour
+REFERENCE_SAMPLE 876;methylation class angiosarcoma
+REFERENCE_SAMPLE 877;methylation class gastrointestinal stromal tumour
+REFERENCE_SAMPLE 878;methylation class Langerhans cell histiocytosis
+REFERENCE_SAMPLE 879;methylation class angiosarcoma
+REFERENCE_SAMPLE 880;methylation class Langerhans cell histiocytosis
+REFERENCE_SAMPLE 881;methylation class angiosarcoma
+REFERENCE_SAMPLE 882;methylation class angiosarcoma
+REFERENCE_SAMPLE 883;methylation class rhabdomyosarcoma (embryonal)
+REFERENCE_SAMPLE 884;methylation class synovial sarcoma
+REFERENCE_SAMPLE 885;methylation class gastrointestinal stromal tumour
+REFERENCE_SAMPLE 886;methylation class infantile fibrosarcoma
+REFERENCE_SAMPLE 887;methylation class Langerhans cell histiocytosis
+REFERENCE_SAMPLE 888;methylation class gastrointestinal stromal tumour
+REFERENCE_SAMPLE 889;methylation class gastrointestinal stromal tumour
+REFERENCE_SAMPLE 890;methylation class angiosarcoma
+REFERENCE_SAMPLE 891;methylation class Langerhans cell histiocytosis
+REFERENCE_SAMPLE 892;methylation class sarcoma (RMS-like)
+REFERENCE_SAMPLE 893;methylation class synovial sarcoma
+REFERENCE_SAMPLE 894;methylation class Langerhans cell histiocytosis
+REFERENCE_SAMPLE 895;methylation class malignant peripheral nerve sheath tumour
+REFERENCE_SAMPLE 896;methylation class angiosarcoma
+REFERENCE_SAMPLE 897;methylation class small blue round cell tumour with CIC alteration
+REFERENCE_SAMPLE 898;methylation class malignant peripheral nerve sheath tumour
+REFERENCE_SAMPLE 899;methylation class gastrointestinal stromal tumour
+REFERENCE_SAMPLE 900;methylation class Langerhans cell histiocytosis
+REFERENCE_SAMPLE 901;methylation class Langerhans cell histiocytosis
+REFERENCE_SAMPLE 902;methylation class angiosarcoma
+REFERENCE_SAMPLE 903;methylation class Langerhans cell histiocytosis
+REFERENCE_SAMPLE 904;methylation class synovial sarcoma
+REFERENCE_SAMPLE 905;methylation class myxoid liposarcoma
+REFERENCE_SAMPLE 906;methylation class Langerhans cell histiocytosis
+REFERENCE_SAMPLE 907;methylation class gastrointestinal stromal tumour
+REFERENCE_SAMPLE 908;methylation class dermatofibrosarcoma protuberans
+REFERENCE_SAMPLE 909;methylation class myxoid liposarcoma
+REFERENCE_SAMPLE 910;methylation class Langerhans cell histiocytosis
+REFERENCE_SAMPLE 911;methylation class synovial sarcoma
+REFERENCE_SAMPLE 912;methylation class malignant peripheral nerve sheath tumour
+REFERENCE_SAMPLE 913;methylation class angiosarcoma
+REFERENCE_SAMPLE 914;methylation class sarcoma (RMS-like)
+REFERENCE_SAMPLE 915;methylation class angiosarcoma
+REFERENCE_SAMPLE 916;methylation class angiosarcoma
+REFERENCE_SAMPLE 917;methylation class rhabdomyosarcoma (MYOD1)
+REFERENCE_SAMPLE 918;methylation class rhabdomyosarcoma (MYOD1)
+REFERENCE_SAMPLE 919;methylation class Langerhans cell histiocytosis
+REFERENCE_SAMPLE 920;methylation class angiosarcoma
+REFERENCE_SAMPLE 921;methylation class rhabdomyosarcoma (MYOD1)
+REFERENCE_SAMPLE 922;methylation class Ewing's sarcoma
+REFERENCE_SAMPLE 923;methylation class lipoma
+REFERENCE_SAMPLE 924;methylation class squamous cell carcinoma (cutaneous)
+REFERENCE_SAMPLE 925;methylation class squamous cell carcinoma (cutaneous)
+REFERENCE_SAMPLE 926;methylation class alveolar soft part sarcoma
+REFERENCE_SAMPLE 927;methylation class endometrial stromal sarcoma (low grade)
+REFERENCE_SAMPLE 928;methylation class atypical fibroxanthoma / pleomorphic dermal sarcoma
+REFERENCE_SAMPLE 929;methylation class atypical fibroxanthoma / pleomorphic dermal sarcoma
+REFERENCE_SAMPLE 930;methylation class atypical fibroxanthoma / pleomorphic dermal sarcoma
+REFERENCE_SAMPLE 931;methylation class leiomyosarcoma
+REFERENCE_SAMPLE 932;methylation class epithelioid sarcoma
+REFERENCE_SAMPLE 933;methylation class epithelioid sarcoma
+REFERENCE_SAMPLE 934;methylation class angiosarcoma
+REFERENCE_SAMPLE 935;methylation class extraskeletal myxoid chondrosarcoma
+REFERENCE_SAMPLE 936;methylation class epithelioid sarcoma
+REFERENCE_SAMPLE 937;methylation class alveolar soft part sarcoma
+REFERENCE_SAMPLE 938;methylation class schwannoma
+REFERENCE_SAMPLE 939;methylation class solitary fibrous tumour
+REFERENCE_SAMPLE 940;methylation class sarcoma (RMS-like)
+REFERENCE_SAMPLE 941;methylation class leiomyoma
+REFERENCE_SAMPLE 942;methylation class leiomyoma
+REFERENCE_SAMPLE 943;methylation class leiomyoma
+REFERENCE_SAMPLE 944;methylation class leiomyoma
+REFERENCE_SAMPLE 945;methylation class leiomyoma
+REFERENCE_SAMPLE 946;methylation class leiomyoma
+REFERENCE_SAMPLE 947;methylation class leiomyoma
+REFERENCE_SAMPLE 948;methylation class endometrial stromal sarcoma (low grade)
+REFERENCE_SAMPLE 949;methylation class endometrial stromal sarcoma (low grade)
+REFERENCE_SAMPLE 950;methylation class endometrial stromal sarcoma (low grade)
+REFERENCE_SAMPLE 951;methylation class endometrial stromal sarcoma (low grade)
+REFERENCE_SAMPLE 952;methylation class endometrial stromal sarcoma (low grade)
+REFERENCE_SAMPLE 953;methylation class endometrial stromal sarcoma (low grade)
+REFERENCE_SAMPLE 954;methylation class endometrial stromal sarcoma (low grade)
+REFERENCE_SAMPLE 955;methylation class endometrial stromal sarcoma (low grade)
+REFERENCE_SAMPLE 956;methylation class clear cell sarcoma of soft parts
+REFERENCE_SAMPLE 957;methylation class clear cell sarcoma of soft parts
+REFERENCE_SAMPLE 958;methylation class clear cell sarcoma of soft parts
+REFERENCE_SAMPLE 959;methylation class clear cell sarcoma of soft parts
+REFERENCE_SAMPLE 960;methylation class clear cell sarcoma of soft parts
+REFERENCE_SAMPLE 961;methylation class clear cell sarcoma of soft parts
+REFERENCE_SAMPLE 962;methylation class clear cell sarcoma of soft parts
+REFERENCE_SAMPLE 963;methylation class Kaposi sarcoma
+REFERENCE_SAMPLE 964;methylation class Kaposi sarcoma
+REFERENCE_SAMPLE 965;methylation class Kaposi sarcoma
+REFERENCE_SAMPLE 966;methylation class Kaposi sarcoma
+REFERENCE_SAMPLE 967;methylation class Kaposi sarcoma
+REFERENCE_SAMPLE 968;methylation class Kaposi sarcoma
+REFERENCE_SAMPLE 969;methylation class Kaposi sarcoma
+REFERENCE_SAMPLE 970;methylation class Kaposi sarcoma
+REFERENCE_SAMPLE 971;methylation class melanoma (cutaneous)
+REFERENCE_SAMPLE 972;methylation class melanoma (cutaneous)
+REFERENCE_SAMPLE 973;methylation class melanoma (cutaneous)
+REFERENCE_SAMPLE 974;methylation class melanoma (cutaneous)
+REFERENCE_SAMPLE 975;methylation class melanoma (cutaneous)
+REFERENCE_SAMPLE 976;methylation class melanoma (cutaneous)
+REFERENCE_SAMPLE 977;methylation class melanoma (cutaneous)
+REFERENCE_SAMPLE 978;methylation class melanoma (cutaneous)
+REFERENCE_SAMPLE 979;methylation class melanoma (cutaneous)
+REFERENCE_SAMPLE 980;methylation class melanoma (cutaneous)
+REFERENCE_SAMPLE 981;methylation class melanoma (cutaneous)
+REFERENCE_SAMPLE 982;methylation class melanoma (cutaneous)
+REFERENCE_SAMPLE 983;methylation class sclerosing epithelioid fibrosarcoma
+REFERENCE_SAMPLE 984;methylation class angioleiomyoma / myopericytoma
+REFERENCE_SAMPLE 985;methylation class angioleiomyoma / myopericytoma
+REFERENCE_SAMPLE 986;methylation class angioleiomyoma / myopericytoma
+REFERENCE_SAMPLE 987;methylation class angioleiomyoma / myopericytoma
+REFERENCE_SAMPLE 988;methylation class angioleiomyoma / myopericytoma
+REFERENCE_SAMPLE 989;methylation class angioleiomyoma / myopericytoma
+REFERENCE_SAMPLE 990;methylation class angioleiomyoma / myopericytoma
+REFERENCE_SAMPLE 991;methylation class angioleiomyoma / myopericytoma
+REFERENCE_SAMPLE 992;methylation class angioleiomyoma / myopericytoma
+REFERENCE_SAMPLE 993;methylation class angioleiomyoma / myopericytoma
+REFERENCE_SAMPLE 994;methylation class angioleiomyoma / myopericytoma
+REFERENCE_SAMPLE 995;methylation class angioleiomyoma / myopericytoma
+REFERENCE_SAMPLE 996;methylation class angioleiomyoma / myopericytoma
+REFERENCE_SAMPLE 997;methylation class angioleiomyoma / myopericytoma
+REFERENCE_SAMPLE 998;methylation class angioleiomyoma / myopericytoma
+REFERENCE_SAMPLE 999;methylation class angioleiomyoma / myopericytoma
+REFERENCE_SAMPLE 1000;methylation class endometrial stromal sarcoma (high grade)
+REFERENCE_SAMPLE 1001;methylation class endometrial stromal sarcoma (high grade)
+REFERENCE_SAMPLE 1002;methylation class endometrial stromal sarcoma (high grade)
+REFERENCE_SAMPLE 1003;methylation class endometrial stromal sarcoma (high grade)
+REFERENCE_SAMPLE 1004;methylation class control (blood)
+REFERENCE_SAMPLE 1005;methylation class sclerosing epithelioid fibrosarcoma
+REFERENCE_SAMPLE 1006;methylation class sclerosing epithelioid fibrosarcoma
+REFERENCE_SAMPLE 1007;methylation class sclerosing epithelioid fibrosarcoma
+REFERENCE_SAMPLE 1008;methylation class undifferentiated sarcoma
+REFERENCE_SAMPLE 1009;methylation class endometrial stromal sarcoma (high grade)
+REFERENCE_SAMPLE 1010;methylation class well- / dedifferentiated liposarcoma
+REFERENCE_SAMPLE 1011;methylation class undifferentiated sarcoma
+REFERENCE_SAMPLE 1012;methylation class endometrial stromal sarcoma (high grade)
+REFERENCE_SAMPLE 1013;methylation class endometrial stromal sarcoma (high grade)
+REFERENCE_SAMPLE 1014;methylation class sclerosing epithelioid fibrosarcoma
+REFERENCE_SAMPLE 1015;methylation class well- / dedifferentiated liposarcoma
+REFERENCE_SAMPLE 1016;methylation class well- / dedifferentiated liposarcoma
+REFERENCE_SAMPLE 1017;methylation class well- / dedifferentiated liposarcoma
+REFERENCE_SAMPLE 1018;methylation class well- / dedifferentiated liposarcoma
+REFERENCE_SAMPLE 1019;methylation class well- / dedifferentiated liposarcoma
+REFERENCE_SAMPLE 1020;methylation class well- / dedifferentiated liposarcoma
+REFERENCE_SAMPLE 1021;methylation class well- / dedifferentiated liposarcoma
+REFERENCE_SAMPLE 1022;methylation class well- / dedifferentiated liposarcoma
+REFERENCE_SAMPLE 1023;methylation class well- / dedifferentiated liposarcoma
+REFERENCE_SAMPLE 1024;methylation class well- / dedifferentiated liposarcoma
+REFERENCE_SAMPLE 1025;methylation class well- / dedifferentiated liposarcoma
+REFERENCE_SAMPLE 1026;methylation class undifferentiated sarcoma
+REFERENCE_SAMPLE 1027;methylation class endometrial stromal sarcoma (high grade)
+REFERENCE_SAMPLE 1028;methylation class undifferentiated sarcoma
+REFERENCE_SAMPLE 1029;methylation class sclerosing epithelioid fibrosarcoma
+REFERENCE_SAMPLE 1030;methylation class undifferentiated sarcoma
+REFERENCE_SAMPLE 1031;methylation class undifferentiated sarcoma
+REFERENCE_SAMPLE 1032;methylation class undifferentiated sarcoma
+REFERENCE_SAMPLE 1033;methylation class undifferentiated sarcoma
+REFERENCE_SAMPLE 1034;methylation class undifferentiated sarcoma
+REFERENCE_SAMPLE 1035;methylation class undifferentiated sarcoma
+REFERENCE_SAMPLE 1036;methylation class undifferentiated sarcoma
+REFERENCE_SAMPLE 1037;methylation class undifferentiated sarcoma
+REFERENCE_SAMPLE 1038;methylation class undifferentiated sarcoma
+REFERENCE_SAMPLE 1039;methylation class undifferentiated sarcoma
+REFERENCE_SAMPLE 1040;methylation class undifferentiated sarcoma
+REFERENCE_SAMPLE 1041;methylation class undifferentiated sarcoma
+REFERENCE_SAMPLE 1042;methylation class undifferentiated sarcoma
+REFERENCE_SAMPLE 1043;methylation class undifferentiated sarcoma
+REFERENCE_SAMPLE 1044;methylation class well- / dedifferentiated liposarcoma
+REFERENCE_SAMPLE 1045;methylation class well- / dedifferentiated liposarcoma
+REFERENCE_SAMPLE 1046;methylation class well- / dedifferentiated liposarcoma
+REFERENCE_SAMPLE 1047;methylation class well- / dedifferentiated liposarcoma
+REFERENCE_SAMPLE 1048;methylation class well- / dedifferentiated liposarcoma
+REFERENCE_SAMPLE 1049;methylation class well- / dedifferentiated liposarcoma
+REFERENCE_SAMPLE 1050;methylation class leiomyosarcoma
+REFERENCE_SAMPLE 1051;methylation class sclerosing epithelioid fibrosarcoma
+REFERENCE_SAMPLE 1052;methylation class undifferentiated sarcoma
+REFERENCE_SAMPLE 1053;methylation class undifferentiated sarcoma
+REFERENCE_SAMPLE 1054;methylation class well- / dedifferentiated liposarcoma
+REFERENCE_SAMPLE 1055;methylation class well- / dedifferentiated liposarcoma
+REFERENCE_SAMPLE 1056;methylation class well- / dedifferentiated liposarcoma
+REFERENCE_SAMPLE 1057;methylation class control (blood)
+REFERENCE_SAMPLE 1058;methylation class control (blood)
+REFERENCE_SAMPLE 1059;methylation class control (blood)
+REFERENCE_SAMPLE 1060;methylation class control (blood)
+REFERENCE_SAMPLE 1061;methylation class control (blood)
+REFERENCE_SAMPLE 1062;methylation class control (blood)
+REFERENCE_SAMPLE 1063;methylation class control (blood)
+REFERENCE_SAMPLE 1064;methylation class control (blood)
+REFERENCE_SAMPLE 1065;methylation class control (blood)
+REFERENCE_SAMPLE 1066;methylation class angiomatoid fibrous histiocytoma
+REFERENCE_SAMPLE 1067;methylation class epithelioid haemangioendothelioma
+REFERENCE_SAMPLE 1068;methylation class epithelioid haemangioendothelioma
+REFERENCE_SAMPLE 1069;methylation class epithelioid haemangioendothelioma
+REFERENCE_SAMPLE 1070;methylation class rhabdomyosarcoma (MYOD1)
+REFERENCE_SAMPLE 1071;methylation class rhabdomyosarcoma (MYOD1)
+REFERENCE_SAMPLE 1072;methylation class rhabdomyosarcoma (MYOD1)
+REFERENCE_SAMPLE 1073;methylation class rhabdomyosarcoma (MYOD1)
+REFERENCE_SAMPLE 1074;methylation class endometrial stromal sarcoma (high grade)
+REFERENCE_SAMPLE 1075;methylation class nodular fasciitis
+REFERENCE_SAMPLE 1076;methylation class nodular fasciitis
+REFERENCE_SAMPLE 1077;methylation class nodular fasciitis
+;
